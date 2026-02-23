@@ -1,0 +1,5 @@
+The patient is 49 years old and has a race of Caucasian.
+The patient's vital signs include a weight of 87 kg, height of 168 cm, body mass index of 30.8 kg/m2, systolic blood pressure of 162 mm[Hg], and diastolic blood pressure of 92 mm[Hg].
+The patient's lab results include a creatinine level of 0.7 mg/dL, glomerular filtration rate of 92 ml/min, potassium in venous blood of 4 mmol/l, ferritin in serum of 32 mcg/l, and hemoglobin in blood of 14.1 g/dl.
+The patient is taking 1 medication, which is Metformin, an oral hypoglycemic, biguanide type, with ATC code A10BA02.
+The patient has been diagnosed with essential primary hypertension and type 2 diabetes mellitus with multiple complications, both of which are confirmed and active conditions.

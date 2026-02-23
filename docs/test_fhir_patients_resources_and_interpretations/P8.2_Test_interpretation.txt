@@ -1,0 +1,6 @@
+The patient is a 42-year-old male.
+He is of black-african race.
+He has a diagnosis of essential primary hypertension.
+His current medications include one medication, Amlodipin, which is an angiotensin receptor blocker (ARB).
+His vital signs include a weight of 87 kg, height of 168 cm, body mass index of 30.8 kg/m2, systolic blood pressure of 150 mmHg, and diastolic blood pressure of 91 mmHg.
+Lab results show a creatinine level of 0.7 mg/dL, glomerular filtration rate (GFR) of 92 ml/min, ferritin in serum of 32 mcg/l, potassium in venous blood of 4 mmol/l, and hemoglobin in blood of 14.1 g/dl.

@@ -1,0 +1,6 @@
+The patient is an 84-year-old male, and his race is Caucasian.
+He has a weight of 87 kg, a height of 168 cm, and a body mass index (BMI) of 30.8 kg/m2.
+His systolic blood pressure is 150 mmHg and diastolic blood pressure is 91 mmHg.
+The patient's lab results include an albumin-to-creatinine ratio (ACR) of 77 mg/mmol, a glomerular filtration rate (GFR) of 90 ml/min, a potassium level of 4 mmol/l, a ferritin level of 32 mcg/l, and a hemoglobin level of 14.1 g/dl.
+He is currently taking one medication, Metformin, which is an oral antidiabetic drug classified as a biguanide, with the ATC parent name of blood glucose lowering agents.
+The patient has been diagnosed with essential (primary) hypertension (I10.0), chronic kidney disease stage 1 (N18.1), and type 2 diabetes mellitus with multiple complications (E11.7).

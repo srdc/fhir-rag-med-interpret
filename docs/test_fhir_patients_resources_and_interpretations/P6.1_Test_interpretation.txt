@@ -1,0 +1,7 @@
+The patient is a 84-year-old male.
+He has a weight of 87 kg and a height of 168 cm, resulting in a body mass index (BMI) of 30.8 kg/m2.
+The patient's vital signs include a systolic blood pressure of 150 mm[Hg] and a diastolic blood pressure of 91 mm[Hg].
+Laboratory results show a creatinine level of 0.7 mg/dL, a glomerular filtration rate (GFR) of 92 ml/min, a potassium level of 4 mmol/l, a ferritin level of 32 mcg/l, and a hemoglobin level of 14.1 g/dl.
+The patient has been diagnosed with essential (primary) hypertension.
+The patient's race is Caucasian.
+There is no information about medications the patient is taking, the patient does not use drugs or medications.

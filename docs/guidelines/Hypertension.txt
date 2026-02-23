@@ -1,0 +1,78 @@
+CAREPATH Hypertension Clinical Guideline
+
+Assessment:
+
+- The evidence supports the recommendation that multimorbid older patients with cognitive impairment (>65 years, including patients over 80 years) should be offered blood pressure (BP)-lowering treatment if their systolic BP is >= 160 mmHg. There is also justification to now recommend BP-lowering treatment for old patients (aged >65 but not >80 years) at a lower BP (i.e. grade 1 hypertension; systolic BP = 140-159 mmHg). Systolic BP should be targeted to between 130 and 140 mmHg, and diastolic BP to <80 mmHg. Treated systolic BP should not be targeted to <120 mmHg. Drug treatment is not recommended for older adults with high-normal BP (BP 130-139/85-89 mmHg).
+
+- In patients with snoring/apnea, nocturia, nocturnal dyspnea, nighttime cardiovascular events or resistant hypertension in addition to sleepiness during the daytime, obstructive sleep apnea should be suspected.
+
+Diagnosis:
+
+- Of-office BP measurements are recommended to confirm the diagnosis of hypertension and for titration of BP-lowering medication, in conjunction with telehealth counselling or clinical interventions.
+
+- BP should be categorized as normal, high-normal (BP 130-139/85-89 mmHg), or grade 1 (BP 140-159/90-99 mmHg), grade 2 (BP 160-179/100-109 mmHg) or grade 3 (BP >= 180/110 mmHg) hypertension to prevent and treat high BP.
+
+- Secondary causes have to be ruled out when BP recommended treatment strategy fails to lower office systolic and dystolic BP values to <140 mmHg and/or <90 mmHg, respectively, and the inadequate control of BP is confirmed by Ambulatory BP Monitoring or home BP monitoring in patients whose adherence to therapy has been confirmed.
+
+Management:
+- Age alone must never be a barrier to treatment because high BP is an important risk factor even at the most advanced ages. However, in this population, concerns do exist about potential poor tolerability, and even harmful effects of BP-lowering interventions in people in whom mechanisms preserving BP homeostasis and vital organ perfusion may be more frequently impaired. Consequently, the decision to treat hypertension must take into account the patient's clinical condition, concomitant treatments and frailty.
+
+General Recommendations:
+
+- Lifestyle advice should be offered to every patient with high-normal, or grade 1, 2 or 3 hypertension. Weight loss is recommended to reduce BP in adults with elevated BP or hypertension who are overweight or obese.
+
+- Adults initiating a new or adjusted drug regimen for hypertension should have a follow-up evaluation of adherence and response to treatment at until control is achieved.
+
+- The impact of BP-lowering on the well-being of the patient should be closely monitored, because the increased risk of adverse events (e.g. injurious falls) with lower BP values could be more pronounced in this population.
+
+- Tolerability of antihypertensive treatment (potential of adverse reactions or adverse events such as reduced organ perfusion arising from excessive hypotensive effects) varies depending on the condition and the magnitude or rate of BP reduction in individual cases. Care needs to be taken of the process of achieving the goal of antihypertensive treatment in these patients, as well as the tolerability of antihypertensive treatment after achievement of the goal. The possible occurrence of adverse reactions, and with special interest postural BP, should be closely monitored and symptoms of possible hypotensive episodes checked by Ambulatory BP Monitoring. The concomitant use of other appropriate antihypertensive drugs that may elevate the hypotensive effects should be monitored.
+
+- Renal function should be frequently assessed to detect possible increases in serum creatinine and reductions in eGFR as a result of BP-related reductions in renal perfusion.
+
+Pharmacological Recommendations:
+
+- For most patients, especially those with conditions like hypertension-mediated organ damage, cerebrovascular disease, diabetes, or peripheral artery disease, initial therapy involves starting with a combination of two drugs. The options for this dual drug combination are: (1) An ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker) along with a CCB (calcium channel blocker). (2) An ACE inhibitor or ARB along with a diuretic. If blood pressure (BP) goals are not achieved with the dual combination in this patient group, the next step (Step 2) is to add a third drug to continue with triple combination therapy. The alternatives for this triple drug combination are: (1)ACE inhibitor, CCB, and diuretic (2) ARB, diuretic, and CCB. If BP goals are still not met with the triple combination, in Step 2, a fourth drug can be added. The options include spironolactone (25-50 mg once daily) or another diuretic, alpha-blocker or beta-blocker. Consider beta-blockers at any treatment step when there is a specific indication for their use, such as heart failure, angina, post-myocardial infarction, or atrial fibrillation.
+
+- For patients with Coronary artery disease, initial therapy typically involves starting with a dual drug combination. The options for this dual drug combination in this patient group are as follows: (1) ACE inhibitor or ARB and a CCB ;(2) ACE inhibitor or ARB and Beta-blocker, (3) CCB and Beta-blocker, (4) CCB and diuretic, (5) diuretic and Beta-blocker. If blood pressure (BP) goals are not achieved with the dual combination in this patient group, the next step (Step 2) is to add a third drug to continue with triple combination therapy. The options for this triple drug combination are ACE inhibitor or ARB, Beta-blocker, CCB, diuretic. If BP goals are still not met with the triple combination, in Step 2, a fourth drug can be added. The alternatives include spironolactone (25-50 mg once daily) or another diuretic, alpha blocker or beta-blocker. Consider beta-blockers at any treatment step, when there is a specific indication for their use like heart failure, angina, post-myocardial infarction or atrial fibrillation.
+
+- For patients who have Chronic Kidney disease, the initial therapy is to start with a dual drug combination. The alternatives for dual drug combination in this patient group is as follows: (1) ACE inhibitor or ARB and a CCB ;(2) ACE inhibitor or ARB and diuretic (or loop diuretic). If BP Goals are not met with dual combination in this patient group, in Step 2, a third drug can be added to continue with triple combination therapy of the following: ACE inhibitor or ARB, CCB, diuretic (or loop diuretic). If BP Goals are not met with triple combination in this patient group, in Step 2, a fourth drug can be added. The alternatives are spironolactone (25-50 mg o.d.) or other diuretic, Alpha-blocker or Beta-blocker. Consider Beta-blockers at any treatment step, when there is a specific indication for their use like heart failure, angina, post-myocardial infarction or atrial fibrillation.
+
+- For patients who have Heart failure with reduced ejection fraction (HFref) , the initial therapy is to start with a triple drug combination of the following: ACE inhibitor or ARB, diuretic (or loop diuretic), Beta-blocker. If BP Goals are not met with triple combination in this patient group, in Step 2, as a fourth drug mineralocorticoid receptor antagonist (MRA) can be added.
+
+- In multimorbid older adults with cognitive impairment, it may be appropriate to initiate treatment with monotherapy, and by means of once daily drug treatment, as a rule. When combination therapy is used, it is recommended that this is initiated at the lowest available doses.
+
+- In multimorbid older adults with cognitive impairment, for initiation of antihypertensive drug therapy, first-line agents include thiazide diuretics, CCB and ACE inhibitors or ARB (20). Unless required for concomitant diseases, loop diuretics and alpha-blockers should be avoided because of their association with injurious falls.
+
+- Simultaneous use of an ACE inhibitor ARB, and/or renin inhibitor is potentially harmful and is not recommended to treat adults with hypertension.
+
+- In those with CKD (stage 3 or higher or stage 1 or 2 with albuminuria [>=300 mg/d, or >=300 mg/g albumin-to-creatinine ratio or the equivalent in the first morning void]), treatment with an ACE inhibitor is reasonable to slow kidney disease progression.
+
+- Resistant hypertension is more frequent in multimorbid older adults with cognitive impairment. The recommended treatment strategy should include appropriate lifestyle measures and treatment with optimal or best-tolerated doses of three or more drugs, which should include a diuretic, typically an ACE inhibitor or an ARB, and a CCB.
+
+- In hypertensive patients with bronchial asthma, Beta and Alpha-blockers should be avoided.
+
+- Non-steroidal anti-inflammatory drugs (NSAIDs) raise the BP, mainly in this population of older adults, and antagonize the antihypertensive effects of diuretics, Beta-blockers, ACE inhibitors and ARB. Therefore, these drugs must be carefully administered.
+
+- Massive therapy with glucocorticoids causes an increase in BP. If their administration is unavoidable, CCBs, ACE inhibitors, ARB, Beta-blockers, diuretics or MRA should be used.
+
+- The use of erythropoietin, estrogen or sympathomimetic drugs including antidepressants may cause an increase in BP. If BP increases during the use of these drugs, a reduction in the dose or discontinuation of administration should be considered. If they cannot be discontinued, CCB, ACE inhibitors, ARB or Alpha-blockers should be used.
+
+- In hypertensive patients with Gout, Diuretics (thiazides/thiazide-like, e.g. chlorthalidone and indapamide) should be avoided.
+
+- Diuretics (thiazides/thiazide-like, e.g. chlorthalidone and indapamide) may have possible contraindications in hypertensive patients with one of the following conditions: Metabolic syndrome, Glucose intolerance, Hypercalcemia, Hypokalemia.
+
+- Beta-blockers should be avoided In hypertensive patients one of the following conditions: Asthma, Any high-grade sinoatrial or A-V block or Bradycardia (heart rate <60 beats per min).
+
+- Beta-blockers may have possible contraindications in hypertensive patients with one of the following conditions: Metabolic syndrome, Glucose intolerance, High physically active patients.
+
+- Calcium channel blockers (dihydropyridines) may have possible contraindications in hypertensive patients with one of the following conditions: Tachyarrhythmia, Heart failure with reduced ejection fraction class III or IV, Pre-existing severe leg oedema.
+
+- Calcium channel blockers (non-dihydropyridines) should be avoided in hypertensive patients with one of the following conditions: Any high-grade sinoatrial or atrioventricular block, Severe left ventricle dysfunction (left ventricle ejection fraction <40%) or Bradycardia (heart rate <60 beats per min).
+
+- Calcium channel blockers (non-dihydropyridines) may have possible contraindications in hypertensive patients with Constipation.
+
+- Angiotensin-converting enzyme inhibitors should be avoided in hypertensive patients with one of the following conditions: Previous angioneurotic oedema, Hyperkalemia (potassium >5.5 mmol/L), Bilateral renal artery stenosis.
+
+- Angiotensin receptor blockers should be avoided in hypertensive patients with one of the following conditions: Hyperkalemia (potassium >5.5 mmol/L), Bilateral renal artery stenosis.
+
+- Alfa-blockers may have possible contraindications in hypertensive patients with Orthostatic hypotension.

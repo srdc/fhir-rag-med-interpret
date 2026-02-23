@@ -1,0 +1,12 @@
+The patient is a 49-year-old male.
+The patient's weight is 87 kg, and height is 168 cm, giving a body mass index of 30.8 kg/m2.
+The patient's systolic blood pressure is 150 mm[Hg], and diastolic blood pressure is 91 mm[Hg].
+The patient has a creatinine level of 0.7 mg/dL, which is within the normal range of 0.7-1.3 mg/dL.
+The patient's glomerular filtration rate is 92 ml/min, which is above the lower limit of the normal range of 90 ml/min.
+The patient's potassium level is 4 mmol/l, which is below the normal range of 4.5-5.5 mmol/l.
+The patient's ferritin level is 32 mcg/l, which is within the normal range of 30-300 mcg/l.
+The patient's hemoglobin level is 14.1 g/dl, which is within the normal range of 14-16 g/dl.
+The patient is currently taking 3 medications: Metformin, which is an antidiabetic, Ramipril, which is an ACE inhibitor, and Indapamide, which is a diuretic, corresponding to ATC parent names of A10BA02, C09AA05, and C03BA03, respectively.
+The patient has been diagnosed with essential hypertension, which is an active and confirmed condition.
+The patient has also been diagnosed with type 2 diabetes mellitus with multiple complications, which is an active and confirmed condition.
+The patient's race is Caucasian.

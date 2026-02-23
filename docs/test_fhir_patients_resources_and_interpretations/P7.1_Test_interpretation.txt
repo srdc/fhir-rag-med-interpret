@@ -1,0 +1,7 @@
+The patient is a 60-year-old male.
+The patient's weight is 87 kg, height is 168 cm, and body mass index is 30.8 kg/m2.
+The patient's systolic blood pressure is 150 mm[Hg] and diastolic blood pressure is 91 mm[Hg].
+The patient has a creatinine level of 0.7 mg/dL, glomerular filtration rate of 92 ml/min, potassium level of 4 mmol/l, ferritin level of 32 mcg/l, and hemoglobin level of 14.1 g/dl.
+The patient has been diagnosed with essential primary hypertension and left ventricular failure.
+The patient's race is Caucasian.
+The patient does not use any drugs or medications.

@@ -1,0 +1,6 @@
+The patient is a 41-year-old male of black-african race.
+He has a diagnosis of essential (primary) hypertension, which was confirmed and is currently active.
+His vital signs include a weight of 87 kg, height of 168 cm, body mass index (BMI) of 30.8 kg/m2, systolic blood pressure of 150 mm[Hg], and diastolic blood pressure of 91 mm[Hg].
+The patient's lab results include a creatinine level of 0.7 mg/dL, glomerular filtration rate (GFR) of 92 ml/min, potassium level of 4 mmol/l, ferritin level of 32 mcg/l, and hemoglobin level of 14.1 g/dl.
+The patient does not use drugs or medications.
+His current medical condition is characterized by the mentioned diagnosis and lab results, with no additional information available.

@@ -1,0 +1,1 @@
+set PYTHONPATH=. && uvicorn src.app.app:app --reload

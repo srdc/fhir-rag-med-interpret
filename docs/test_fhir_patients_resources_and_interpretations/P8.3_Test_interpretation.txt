@@ -1,0 +1,7 @@
+The patient is a 41-year-old male.
+He has a weight of 87 kg and a height of 168 cm, with a calculated body mass index of 30.8 kg/m2.
+The patient's vital signs include a systolic blood pressure of 150 mm[Hg] and a diastolic blood pressure of 91 mm[Hg].
+Lab results show a creatinine level of 0.7 mg/dL, a glomerular filtration rate of 92 ml/min, a potassium level of 4 mmol/l, a ferritin level of 32 mcg/l, and a hemoglobin level of 14.1 g/dl.
+The patient is taking 2 medications, Amlodipin, which is a calcium channel blocker, and Losartan, which is an angiotensin II receptor blocker.
+The patient has been diagnosed with essential hypertension.
+The patient's race is black-african.

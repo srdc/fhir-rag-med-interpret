@@ -1,0 +1,8 @@
+The patient is a 60-year-old male.
+He has a weight of 87 kg and a height of 168 cm.
+His body mass index is 30.8 kg/m2.
+The patient's systolic blood pressure is 150 mm[Hg] and diastolic blood pressure is 91 mm[Hg].
+The patient's laboratory results include a creatinine level of 0.7 mg/dL, glomerular filtration rate (GFR) of 92 ml/min, potassium in venous blood of 4 mmol/l, ferritin in serum of 32 mcg/l, and hemoglobin in blood of 14.1 g/dl.
+The patient has been diagnosed with essential (primary) hypertension (I10.0) and oedema, unspecified (R60.9).
+The patient does not use any medications.
+The patient's race is Caucasian.

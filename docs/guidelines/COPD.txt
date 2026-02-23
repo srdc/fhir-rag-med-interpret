@@ -1,0 +1,55 @@
+Chronic Obstructive Pulmonary Disease
+
+Assessment:
+
+Suspect a diagnosis of Chronic Obstructive Pulmonary Disease (COPD) in older adults with multimorbidity and cognitive impairment when presenting a risk factor (generally smoking or a history of smoking) and one or more of the following symptoms: exertional breathlessness, chronic cough, regular sputum production, frequent winter bronchitis, or wheeze.  Ask the person if they have weight loss, reduced exercise tolerance, waking at night with breathlessness, ankle swelling, fatigue, occupational hazards, chest pain, or haemoptysis.
+
+Dyspnoea should be scaled for COPD assessment based on the following criteria: Grade 0: Patient gets breathless with strenuous exercise;  Grade 1: patient gets short of breath when hurrying on level ground or walking up a slight hill;  Grade 2: On level ground, Patient walks slower than people of the same age because of breathlessness, or Patient has to stop for breath when walking at his own pace on the level; Grade 3: Patient stops for breath after walking about 100 meters or after a few minutes on level ground; Grade 4: Patient is too breathless to leave the house or Patient is breathless when dressing or undressing.
+
+Severity of COPD should either using the GOLD-Classification or using the below classification as follows: The symptoms and signs are as follows for Mild COPD: Breathless on moderate exertion, Cough and sputum production, Little or no effect on daily activities and FEV1 ~ 60-80% predicted. The symptoms and signs are as follows for Moderate COPD: Breathless walking on level ground, increasing limitation of daily activities, Recurrent chest infections, Exacerbations requiring oral corticosteroids and/or antibiotics and FEV1 ~ 40-59% predicted. The symptoms and signs are as follows for Severe COPD: Breathless on minimal exertion, Daily activities severely curtailed, Exacerbations of increasing frequency and severity and FEV1 < 40% predicted.
+
+Diagnosis:
+
+In the context of COPD management, spirometry should be performed at diagnosis, to reconsider the diagnosis, for people who show an exceptionally good response to treatment, and to monitor disease progression. Post-bronchodilator spirometry must be realized to confirm the diagnosis of COPD. However, in multimorbid older adults with cognitive impairment, spirometry may be difficult to be realized, and results may not be accurate. In addition to spirometry, at the time of the initial diagnosis, all patients should have a chest radiograph to exclude other pathologies, a full blood count is recommended to identify anaemia or polycythaemia, and a Body Mass Index needs to be calculated.
+
+Management:
+
+General Recommendations:
+
+From diagnosis onwards, when discussing prognosis and treatment decisions with older adults with stable COPD, think about the following factors that are individually associated with prognosis: FEV, smoking status, breathlessness (MRC scale), chronic hypoxia and/or cor-pulmonale, low BMI, severity and frequency of exacerbations, hospital admissions, symptom burden (for example, COPD Assessment Test score), exercise capacity (for example, 6-minute walk test), TLCO, whether the person meets the criteria for long-term oxygen therapy and/or home non-invasive ventilation, multimorbidity, and frailty.
+
+Refer older adults for specialist advice when there is diagnostic uncertainty, for diagnosis confirmation and therapy optimization, when suspected severe COPD or onset of cor-pulmonale, for assessment for oxygen therapy, or long-term nebuliser therapy, or need for continued treatment or supervise withdrawal.
+
+Consider hospitalisation in the following circumstances: there is marked increase in intensity of symptoms; Patient has acute exacerbation characterised by increased dyspnoea, cough or sputum production, plus one or more of the following: Inadequate response to ambulatory management, inability to walk between rooms when previously mobile, inability to eat or sleep because of dyspnoea; Patient cannot manage at home even with home-care resources; there is High risk comorbidity condition, pulmonary (e.g., pneumonia) or non-pulmonary; When altered mental status suggestive of hypercapnia is observed; When worsening hypoxaemia or cor-pulmonale is observed; when severe dyspnoea that responds inadequately to initial emergency therapy, or confusion, lethargy or evidence of hypoventilation is observed; when there is persistent or worsening hypoxaemia despite supplemental oxygen, worsening hypercapnia (PaCO2 > 70 mmHg), or severe or worsening respiratory acidosis (blood pH < 7.3).
+
+Pharmacological Recommendations:
+
+Follow a step wise approach for pharmacotherapy. At each step, assess the ability to use and the correct use of the device, consider an alternative device, if handling is not correct and cannot be taught.
+
+In patients with stable COPD, offer inhaled therapy with LAMA (long-acting muscarinic antagonists) + LABA (long-acting Beta-2 agonists) if they do not have asthmatic features or features suggesting steroid responsiveness, and remain breathless or have exacerbations despite optimized non-pharmacological management and using a short-acting bronchodilator.
+
+Consider LABA + ICS (inhaled corticosteroids) for people who have asthmatic features or features suggesting steroid responsiveness and remain breathless or have exacerbations despite optimized non-pharmacological management and using a short-acting bronchodilator.
+
+Before starting LAMA + LABA + ICS, conduct a clinical review to ensure that the person's non-pharmacological COPD management is optimized, and the person's day-to-day symptoms that are adversely impacting their quality of life are caused by COPD and not by another physical or mental health condition.
+
+For people with COPD who are taking LABA + ICS, offer LAMA + LABA + ICS if their day-to-day symptoms continue to adversely impact their quality of life, or they have a severe exacerbation (requiring hospitalization), or they have 2 moderate exacerbations within a year.
+
+For people with COPD who are taking LAMA + LABA, consider LAMA + LABA + ICS if they have a severe exacerbation (requiring hospitalization) or have 2 moderate exacerbations within a year.
+
+For people with COPD who are taking LAMA + LABA and whose day-to-day symptoms adversely impact their quality of life, consider a trial of LAMA + LABA + ICS, lasting for 3 months only after 3 months, conduct a clinical review to establish whether or not LAMA + LABA + ICS has improved their symptoms. If symptoms have not improved, stop LAMA + LABA + ICS and switch back to LAMA + LABA; if symptoms have improved, continue with LAMA + LABA + ICS.
+
+Long-term use of oral corticosteroid therapy in COPD is not normally recommended. Some people with advanced COPD may need long-term oral corticosteroids when these cannot be withdrawn following an exacerbation. In these cases, the dose of oral corticosteroids should be kept as low as possible.
+
+Do not continue nebulised therapy without assessing and confirming that 1 or more of the following occurs: a reduction in symptoms, an increase in the ability to undertake activities of daily living, an increase in exercise capacity, or an improvement in lung function.
+
+Assess the need for oxygen therapy in people with very severe airflow obstruction (FEV1 below 30% predicted), cyanosis, polycythaemia, peripheral oedema (swelling), a raised jugular venous pressure, pulmonary hypertension, or an oxygen saturation of 92% or less breathing air. Be aware that inappropriate oxygen therapy in people with COPD may cause respiratory depression. 
+
+Consider Non-invasive mechanical ventilation, in the following circumstances: when there is  respiratory acidosis (pH =< 7.35 or partial pressure of carbon dioxide >=45 mm Hg); when there is severe dyspnoea with signs of respiratory muscle fatigue such as use of accessory muscle, paradoxical motion of abdomen, or retraction of the intercostal spaces, especially in the presence of thoracical deformation; when there is persistent hypoxemia despite adequate oxygen supply.
+
+As symptom management, opioids (oral or parenteral) are effective therapy for the management of refractory dyspnoea and should be considered on an individual basis. 
+
+Anxiety and depression accompany dyspnoea and should be evaluated and treated accordingly. Benzodiazepines, tricyclic anti-depressants and major tranquilisers may be useful in this context.
+
+Oxygen and fans blowing air onto the face can relieve breathlessness.
+
+Fatigue can be improved by self-management education, pulmonary rehabilitation and mind-body interventions.

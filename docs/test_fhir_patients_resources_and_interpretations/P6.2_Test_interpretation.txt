@@ -1,0 +1,7 @@
+The patient is a 60-year-old male.
+He has a weight of 87 kg, height of 168 cm, and a body mass index of 30.8 kg/m2.
+His blood pressure is 150/91 mmHg.
+The patient has a creatinine level of 0.7 mg/dL, a glomerular filtration rate of 92 ml/min, a potassium level of 4 mmol/l, a ferritin level of 32 mcg/l, and a hemoglobin level of 14.1 g/dl.
+The patient is taking one medication, Amlodipin, which is classified as a calcium channel blocker.
+He has been diagnosed with essential primary hypertension.
+The patient's race is Caucasian.

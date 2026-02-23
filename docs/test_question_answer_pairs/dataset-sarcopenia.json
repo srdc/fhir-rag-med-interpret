@@ -1,0 +1,46 @@
+[
+    {
+        "question": "An older adult with mild cognitive impairment (MCI) visits their primary care physician for a routine check-up. What assessments should be considered for this patient to evaluate their risk of frailty and sarcopenia?",
+        "answer": "The patient should be screened for frailty and sarcopenia annually or after major health events. Screening can include the SARC-F questionnaire for sarcopenia and the FRAIL instrument, gait speed, or the Short Physical Performance Battery (SPPB) for frailty. Positive screenings should lead to further assessment."
+    },
+    {
+        "question": "A patient has been screened and found to be positive for sarcopenia using the SARC-F questionnaire. What diagnostic tests are recommended to confirm the presence of sarcopenia?",
+        "answer": "Diagnostic confirmation for sarcopenia involves assessing grip strength, gait speed, or SPPB scores. Low muscle mass can be confirmed using dual-energy x-ray absorptiometry (DXA), bioimpedanciometry, ultrasonography, Computed Tomography scan, or Magnetic Resonance Imaging scan."
+    },
+    {
+        "question": "An elderly patient is diagnosed with frailty after a comprehensive geriatric assessment. Which tools can be used to confirm the diagnosis of frailty?",
+        "answer": "The diagnosis of frailty can be confirmed using tools such as the Frailty Phenotype, the Frailty index, the Clinical Frailty Scale, or the Comprehensive Geriatric Assessment."
+    },
+    {
+        "question": "A patient with frailty and sarcopenia is recommended a management plan by their healthcare provider. What are the key components of the management plan for frailty and sarcopenia?",
+        "answer": "The management plan should include resistance-based exercise training to improve lean mass, strength, and physical function. Additionally, consider protein supplementation or a protein-rich diet, and ensure that nutritional interventions are combined with physical activity and/or resistance-based training."
+    },
+    {
+        "question": "An older adult is referred for further assessment after screening positive for frailty using the FRAIL instrument. What should the healthcare provider focus on during the further assessment for frailty?",
+        "answer": "During further assessment, the healthcare provider should focus on confirming the presence of frailty using additional tools such as the Frailty Phenotype, the Frailty index, the Clinical Frailty Scale, or the Comprehensive Geriatric Assessment."
+    },
+	{
+        "question": "A 70-year-old patient with a recent hip fracture is evaluated for frailty and sarcopenia. What specific assessments should be done for this patient given the recent major health event?",
+        "answer": "Given the recent major health event, the patient should be screened for both frailty and sarcopenia. This can include using the SARC-F questionnaire for sarcopenia and the FRAIL instrument, gait speed, or the Short Physical Performance Battery (SPPB) for frailty. Follow-up assessments should be conducted to confirm the presence of these conditions."
+    },
+    {
+        "question": "A patient with sarcopenia is being assessed for muscle mass loss. Which diagnostic methods are most effective for confirming low muscle mass in this patient?",
+        "answer": "To confirm low muscle mass in a patient with sarcopenia, diagnostic methods such as dual-energy x-ray absorptiometry (DXA), bioimpedanciometry, ultrasonography, Computed Tomography scan, or Magnetic Resonance Imaging scan can be used."
+    },
+    {
+        "question": "An older adult with frailty is starting a new exercise program. What type of exercise should be recommended to this patient to effectively manage their frailty?",
+        "answer": "For managing frailty, the patient should be prescribed resistance-based exercise training. This type of exercise helps improve lean mass, strength, and physical function."
+    },
+    {
+        "question": "A patient with both frailty and sarcopenia is discussing their nutritional needs with a dietitian. What dietary recommendations should be made to support the management of frailty and sarcopenia?",
+        "answer": "The dietitian should recommend a protein-rich diet or protein supplementation to support muscle mass and strength. It is important to combine nutritional interventions with physical activity and/or resistance-based training for optimal results."
+    },
+    {
+        "question": "A healthcare provider is reviewing the results of a patient's sarcopenia screening using the SARC-F questionnaire. What additional steps should the provider take if the screening results indicate a positive for sarcopenia?",
+        "answer": "If the SARC-F questionnaire indicates a positive result for sarcopenia, the healthcare provider should proceed with further diagnostic tests to confirm the presence of sarcopenia. This may include assessing grip strength, gait speed, or SPPB scores and measuring muscle mass using DXA, bioimpedanciometry, or imaging techniques."
+    },
+    {
+        "question": "An older adult is found to have low gait speed during a routine physical exam. What follow-up assessments should be conducted to determine if this low gait speed indicates frailty?",
+        "answer": "If low gait speed is detected, the healthcare provider should conduct further assessments using the FRAIL instrument, Short Physical Performance Battery (SPPB), or Comprehensive Geriatric Assessment to determine if the patient has frailty."
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "question": "I have a 85 years old male patient with BP 135 mmHg. Shall I prescribe any drug?",
+        "answer": "Drug treatment is not recommended for older adults with high-normal BP."
+    },
+    {
+        "question": "I have a patient with diabetes and hypertension. What should be the initial drug therapy?",
+        "answer": "Initial therapy involves starting with a combination of two drugs. Option (1): An ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker) along with a CCB (calcium channel blocker). Option (2): An ACE inhibitor or ARB along with a diuretic."
+    },
+    {
+        "question": "I have an elderly patient who is 75 years old with hypertension. He had a stroke last year. What should be the initial drug therapy?",
+        "answer": "Initial therapy involves starting with a combination of two drugs. Option (1): An ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker) along with a CCB (calcium channel blocker). Option (2): An ACE inhibitor or ARB along with a diuretic."
+    },
+    {
+        "question": "I have an elderly patient who is 75 years old with hypertension. He has intermittent claudication in his legs. He is already on ARB and CCB, however his BP is still 155/100. How shall I change the drug therapy?",
+        "answer": "Initial therapy involves starting with a combination of two drugs. Option (1): An ACE (angiotensin-converting enzyme) inhibitor or ARB (angiotensin receptor blocker) along with a CCB (calcium channel blocker). Option (2): An ACE inhibitor or ARB along with a diuretic."
+    },
+    {
+        "question": "I have a patient with diabetes and hypertension. He uses triple drug combination. However the BP goals are still not met. What should be the drug therapy?",
+        "answer": "A fourth drug can be added. The options include spironolactone (25-50 mg once daily) or another diuretic, alpha-blocker or beta-blocker."
+    },
+    {
+        "question": "I have a patient with diabetes and hypertension. He had a heart failure last year. He uses triple drug combination. However the BP goals are still not met. What should be the drug therapy?",
+        "answer": "A fourth drug can be added. As a fourth drug mineralocorticoid receptor antagonist (MRA) can be added."
+    },
+    {
+        "question": "I have a hypertensive 80 years old patient with dementia. What should be initial therapy?",
+        "answer": "In multimorbid older adults with cognitive impairment, for initiation of antihypertensive drug therapy, first-line agents include thiazide diuretics, CCB and ACE inhibitors or ARB. Unless required for concomitant diseases, loop diuretics and alpha-blockers should be avoided because of their association with injurious falls."
+    },
+    {
+        "question": "I have a hypertensive 45 years old patient. She uses ACE inhibitor, ARB and renin inhibitor together. Is it OK?",
+        "answer": "Simultaneous use of an ACE inhibitor ARB, and/or renin inhibitor is potentially harmful and is not recommended to treat adults with hypertension."
+    },
+    {
+        "question": "I have a hypertensive patient with kidney disease. She has albuminuria 400 mg/d. She uses ACE inhibitor. Is it OK?",
+        "answer": "It is OK. Treatment with an ACE inhibitor is reasonable to slow kidney disease progression."
+    },
+    {
+        "question": "I have a hypertensive, multimorbid 85 years old patient with dementia. What is the recommended treatment strategy?",
+        "answer": "The recommended treatment strategy should include appropriate lifestyle measures and treatment with optimal or best-tolerated doses of three or more drugs, which should include a diuretic, typically an ACE inhibitor or an ARB, and a CCB."
+    },
+    { 
+        "question": "I have a hypertensive patient with asthma. He is not on hypertensive medication. What is the recommended treatment strategy?",
+        "answer": "In hypertensive patients with bronchial asthma, Beta and Alfa-blockers should be avoided. You can consider prescribing first-line agents including thiazide diuretics, CCB and ACE inhibitors or ARB."
+    },
+    {
+        "question": "I have a hypertensive patient and she use glucocorticoids. What else should be prescribed?",
+        "answer": "CCBs, ACE inhibitors, ARB, Beta-blockers, diuretics or MRA should be used."
+    },
+    {
+        "question": "I have a patient using antidepressant. She has a systolic BP 150 mmHg. Shall I change the drug theraphy?",
+        "answer": "a reduction in the dose or discontinuation of administration should be considered. If they cannot be discontinued, CCB, ACE inhibitors, ARB or Alpha-blockers should be used."
+    },
+    {
+        "question": "I have a patient with gout and asthma. She has a systolic BP 165 mmHg. What should be prescribed?",
+        "answer": "A combination that includes an ACE inhibitor or ARB and a CCB as the initial therapy."
+    },
+    {
+        "question": "I have a hypertensive patient with constipation.  What should be prescribed?",
+        "answer": "A combination that includes an ACE inhibitor or ARB and a Diuretics as the initial therapy."
+    },
+    {
+        "question": "I have a hypertensive patient with constipation. He is currentlu using ARB and CCB. Shall I change the drug therapy, how?",
+        "answer": "Calcium channel blockers (non-dihydropyridines) may have possible contraindications in hypertensive patients with Constipation. A combination that includes an ACE inhibitor or ARB and a Diuretics."
+    },
+    {
+        "question": "I have a patient with blood pressure 150 mmHg and potassium 6 mmol/L. What should be prescribed?",
+        "answer": "Nothing should be prescribed."
+    },
+    {
+        "question": "I have an 80-year-old patient with cognitive impairment and a systolic blood pressure of 165 mmHg. What is the appropriate treatment approach?",
+        "answer": "For multimorbid older adults with cognitive impairment, blood pressure-lowering treatment should be offered if the systolic BP is ≥160 mmHg. In this case, it is recommended to initiate treatment with monotherapy at the lowest available dose, considering thiazide diuretics, calcium channel blockers (CCB), or ACE inhibitors/ARBs as first-line agents. Monitor the patient closely for adverse reactions, especially hypotensive episodes, and adjust the treatment as needed."
+    },
+    {
+        "question": "A 75-year-old patient with diabetes and stage 3 chronic kidney disease (CKD) presents with a BP of 155/95 mmHg. What is the recommended treatment strategy?",
+        "answer": "In patients with diabetes and CKD (stage 3 or higher), it is recommended to start with a dual drug combination of an ACE inhibitor or ARB along with a calcium channel blocker (CCB) or a diuretic (loop diuretic if necessary). If BP goals are not met, a third drug can be added. The treatment should be carefully monitored to ensure the BP goal is achieved without worsening kidney function."
+    },
+    {
+        "question": "I have a patient with hypertension and a history of gout. What antihypertensive medications should be avoided?",
+        "answer": "In hypertensive patients with a history of gout, diuretics (such as thiazides or thiazide-like diuretics like chlorthalidone and indapamide) should be avoided, as they can exacerbate gout. Consider alternative antihypertensive agents such as ACE inhibitors, ARBs, or calcium channel blockers."
+    },
+    {
+        "question": "A 68-year-old patient with coronary artery disease (CAD) has a BP of 150/90 mmHg. What initial therapy is recommended?",
+        "answer": "For a patient with coronary artery disease and hypertension, the initial therapy should involve a dual drug combination. Suitable options include an ACE inhibitor or ARB with a calcium channel blocker (CCB) or a beta-blocker. If BP goals are not achieved, a third drug may be added, and the patient's response should be monitored closely."
+    },
+    {
+        "question": "I have a 72-year-old patient with hypertension and bronchial asthma. What medications should be avoided?",
+        "answer": "In hypertensive patients with bronchial asthma, beta-blockers and alpha-blockers should be avoided as they can exacerbate asthma symptoms. Consider alternative antihypertensive agents such as ACE inhibitors, ARBs, or calcium channel blockers."
+    },
+    {
+        "question": "A 72-year-old male patient with a history of chronic kidney disease (CKD) stage 3 and albuminuria has been diagnosed with hypertension. What is the recommended initial therapy?",
+        "answer": "For a patient with CKD stage 3 and albuminuria, the recommended initial therapy involves a dual drug combination of an ACE inhibitor or an ARB along with a calcium channel blocker (CCB) or a diuretic (or loop diuretic). This combination aims to manage blood pressure while slowing the progression of kidney disease."
+    },
+    {
+        "question": "An 85-year-old female patient with cognitive impairment and a history of injurious falls is diagnosed with hypertension. What should be the approach to pharmacological treatment?",
+        "answer": "For a multimorbid older adult with cognitive impairment, it is appropriate to start with monotherapy, preferably with a once-daily drug. First-line agents include thiazide diuretics, calcium channel blockers, and ACE inhibitors or ARBs. Loop diuretics and alpha-blockers should be avoided due to their association with injurious falls."
+    },
+    {
+        "question": "A 68-year-old patient with coronary artery disease (CAD) and grade 2 hypertension is not achieving blood pressure control with a combination of an ACE inhibitor and a CCB. What should be the next step in management?",
+        "answer": "If blood pressure goals are not achieved with the initial dual combination of an ACE inhibitor and a CCB in a patient with CAD, the next step is to add a third drug to continue with triple combination therapy. Suitable options include adding a beta-blocker, a diuretic, or another class of antihypertensive medication to achieve better control."
+    },
+    {
+        "question": "A 75-year-old patient with a history of bronchial asthma and hypertension is currently being treated with a beta-blocker. What is the concern with this treatment, and what alternative should be considered?",
+        "answer": "In hypertensive patients with bronchial asthma, beta-blockers should be avoided as they can exacerbate asthma symptoms. An alternative antihypertensive treatment should be considered, such as using an ARB or a calcium channel blocker, which are less likely to affect respiratory function."
+    },
+    {
+        "question": "A 75-year-old patient with a history of gout and hypertension is currently being treated with a diuretic and a CCB. How should I change the drug theraphy? ",
+        "answer": "In hypertensive patients with Gout, Diuretics (thiazides/thiazide-like, e.g. chlorthalidone and indapamide) should be avoided. An alternative antihypertensive treatment should be considered, such as using ACE inhibitor or ARB and a CCB."
+    },
+    {
+        "question": "A 75-year-old patient with a history of gout and hypertension is currently being treated with a ARB and a CCB, however he is also not meeting his BP goals. How should I change the drug theraphy? ",
+        "answer": "In hypertensive patients with Gout, Diuretics (thiazides/thiazide-like, e.g. chlorthalidone and indapamide) should be avoided. A third drug can be added to continue with triple combination therapy of the following: spironolactone (25-50 mg o.d.) or other diuretic, Alpha-blocker or Beta-blocker."
+    },
+    {
+        "question": "A 70-year-old patient with heart failure with reduced ejection fraction (HFrEF) and hypertension has not achieved blood pressure control with a combination of an ACE inhibitor, a diuretic, and a beta-blocker. What is the next step?",
+        "answer": "For a patient with HFrEF who has not achieved blood pressure control with triple therapy (ACE inhibitor, diuretic, beta-blocker), the next step is to add a mineralocorticoid receptor antagonist (MRA), such as spironolactone, as the fourth drug to improve blood pressure management."
+    },
+    {
+        "question": "A 78-year-old patient with hypertension and metabolic syndrome has been prescribed a thiazide diuretic. What potential concern should be considered, and what is an alternative treatment option?",
+        "answer": "Thiazide diuretics may have contraindications in patients with metabolic syndrome due to their potential to worsen glucose intolerance. An alternative treatment option could include an ACE inhibitor or an ARB, which are less likely to affect glucose metabolism."
+    },
+    {
+        "question": "What blood pressure target is recommended for multimorbid older adults with cognitive impairment, and under what conditions should BP-lowering treatment be offered?",
+        "answer": "For multimorbid older adults with cognitive impairment, BP-lowering treatment should be offered if their systolic BP is ≥160 mmHg. For those aged >65 but not >80 years, treatment is recommended even at lower BP levels (grade 1 hypertension; systolic BP = 140-159 mmHg). The target systolic BP should be between 130 and 140 mmHg, and diastolic BP should be less than 80 mmHg. Treated systolic BP should not be targeted below 120 mmHg, and drug treatment is not recommended for older adults with high-normal BP."
+    },
+    {
+        "question": "Which patients should be suspected of having obstructive sleep apnea, and what symptoms or conditions indicate this suspicion?",
+        "answer": "Obstructive sleep apnea should be suspected in patients with snoring/apnea, nocturia, nocturnal dyspnea, nighttime cardiovascular events, or resistant hypertension, especially if these are accompanied by daytime sleepiness."
+    },
+    {
+        "question": "I have a patient with resistant hypertension. He snores a lot, and has nocturia. How shall I proceed with the treatment plan?",
+        "answer": "Obstructive sleep apnea should be suspected in patients with snoring/apnea, nocturia, nocturnal dyspnea, nighttime cardiovascular events, or resistant hypertension, especially if these are accompanied by daytime sleepiness."
+    },
+    {
+        "question": "What are the steps and combinations of medications recommended for patients with hypertension and Chronic Kidney Disease (CKD) if blood pressure goals are not met with initial therapy?",
+        "answer": "For patients with Chronic Kidney Disease (CKD):\n1. Initial therapy: Dual drug combination with either (1) ACE inhibitor or ARB and a CCB, or (2) ACE inhibitor or ARB and a diuretic (or loop diuretic).\n2. If BP goals are not met: Add a third drug to form a triple combination therapy involving ACE inhibitor or ARB, CCB, and a diuretic (or loop diuretic).\n3. If BP goals are still not met: Add a fourth drug, which could be spironolactone (25-50 mg once daily) or another diuretic, alpha-blocker, or beta-blocker."
+    },
+    {
+        "question": "What are the contraindications for using beta-blockers in hypertensive patients?",
+        "answer": "Beta-blockers should be avoided in hypertensive patients with the following conditions:\n- Asthma\n- Any high-grade sinoatrial or atrioventricular (A-V) block\n- Bradycardia (heart rate <60 beats per minute)\n\nBeta-blockers may have possible contraindications in hypertensive patients with:\n- Metabolic syndrome\n- Glucose intolerance\n- High physically active patients"
+    },
+    {
+        "question": "Explain the pharmacological strategy for managing hypertension in patients with coronary artery disease. Include the initial therapy and subsequent steps if BP goals are not met.",
+        "answer": "For patients with coronary artery disease:\n1. Initial therapy: Start with a dual drug combination from the following options:\n   - ACE inhibitor or ARB and a CCB\n   - ACE inhibitor or ARB and a beta-blocker\n   - CCB and beta-blocker\n   - CCB and diuretic\n   - Diuretic and beta-blocker\n2. If BP goals are not achieved with the dual combination: Proceed to a triple combination therapy involving ACE inhibitor or ARB, beta-blocker, CCB, and diuretic.\n3. If BP goals are still unmet: Add a fourth drug, which could be spironolactone (25-50 mg once daily), another diuretic, alpha-blocker, or beta-blocker. Beta-blockers should be considered at any treatment step when there's a specific indication such as heart failure, angina, post-myocardial infarction, or atrial fibrillation."
+    },
+    {
+        "question": "What lifestyle recommendation is universally suggested for all patients with any level of hypertension?",
+        "answer": "Lifestyle advice, including weight loss, should be offered to every patient with high-normal, or grade 1, 2, or 3 hypertension. Weight loss is particularly recommended for reducing BP in adults who are overweight or obese."
+    }    
+]

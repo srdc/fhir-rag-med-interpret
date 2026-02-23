@@ -1,0 +1,7 @@
+The patient is a 50-year-old male.
+The patient's weight is 87 kg, height is 168 cm, and body mass index is 30.8 kg/m2.
+The patient's systolic blood pressure is 146 mm[Hg] and diastolic blood pressure is 92 mm[Hg].
+The patient's lab results include creatinine 0.7 mg/dL, glomerular filtration rate 92 ml/min, potassium in venous blood 4 mmol/l, ferritin in serum 32 mcg/l, and hemoglobin in blood 14.1 g/dl.
+The patient is taking 2 medications, Metformin, which is an oral anti-diabetic, and Ramipril, which is an angiotensin-converting enzyme inhibitor used to treat high blood pressure and heart failure, and can be classified under the ATC parent names of oral anti-diabetics and ACE inhibitors respectively.
+The patient has been diagnosed with essential hypertension and type 2 diabetes mellitus with multiple complications.
+The patient's race is Caucasian.

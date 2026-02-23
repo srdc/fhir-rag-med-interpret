@@ -1,0 +1,7 @@
+The patient is an 84-year-old male, whose race is Caucasian.
+The patient has a weight of 87 kg, a height of 168 cm, and a body mass index (BMI) of 30.8 kg/m2.
+The patient's vital signs include a systolic blood pressure of 150 mmHg, a diastolic blood pressure of 91 mmHg.
+The patient has a glomerular filtration rate (GFR) of 91 ml/min, which is slightly above the lower limit of the reference range.
+The patient's lab results include a potassium level of 4 mmol/l, which is below the normal range, a ferritin level of 32 mcg/l, which is within the normal range, and a hemoglobin level of 14.1 g/dl, which is within the normal range.
+The patient is taking one medication, Metformin, which is an oral anti-diabetic drug, classified as a biguanide, which is used to treat type 2 diabetes.
+The patient has two active conditions, essential (primary) hypertension, and type 2 diabetes mellitus with multiple complications, both of which were diagnosed on the same date.

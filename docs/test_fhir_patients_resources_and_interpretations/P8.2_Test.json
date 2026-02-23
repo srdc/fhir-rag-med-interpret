@@ -1,0 +1,567 @@
+{
+    "resourceType": "Bundle",
+    "type": "collection",
+    "entry": [
+        {
+            "resource": {
+                "resourceType": "Patient",
+                "id": "llm-8-2",
+                "meta": {
+                    "versionId": "1",
+                    "lastUpdated": "2025-01-23T06:44:27.893Z"
+                },
+                "active": true,
+                "name": [
+                    {
+                        "family": "Test",
+                        "given": [
+                            "P8.2"
+                        ]
+                    }
+                ],
+                "gender": "male",
+                "birthDate": "1983-01-14",
+                "address": [
+                    {
+                        "use": "home",
+                        "country": "black-african"
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "id": "85af2b94-b529-47ee-9e85-799e4be24e76",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "2",
+                    "lastUpdated": "2025-01-23T06:57:11.403Z"
+                },
+                "status": "final",
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "29463-7",
+                            "display": "Weight"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2024-10-23T09:44:22+03:00",
+                "valueQuantity": {
+                    "value": 87,
+                    "unit": "kg"
+                },
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                                "code": "vital-signs",
+                                "display": "Vital Signs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "id": "63f60f61-5f15-4d21-9fce-c78644e36730",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "2",
+                    "lastUpdated": "2025-01-23T06:57:11.494Z"
+                },
+                "status": "final",
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "8302-2",
+                            "display": "Height"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2024-10-23T09:44:22+03:00",
+                "valueQuantity": {
+                    "value": 168,
+                    "unit": "cm"
+                },
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                                "code": "vital-signs",
+                                "display": "Vital Signs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "id": "921234dd-9d4e-4c12-8174-2abfe6de24ef",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "2",
+                    "lastUpdated": "2025-01-23T06:57:11.587Z"
+                },
+                "status": "final",
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "39156-5",
+                            "display": "Body Mass Index"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2024-10-23T09:44:22+03:00",
+                "valueQuantity": {
+                    "value": 30.8,
+                    "unit": "kg/m2"
+                },
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                                "code": "vital-signs",
+                                "display": "Vital Signs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "id": "fd0bb96f-8b19-4a69-a5a4-97cdf62f1dcd",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "2",
+                    "lastUpdated": "2025-01-23T06:57:12.186Z"
+                },
+                "status": "final",
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "8480-6",
+                            "display": "Systolic Blood Pressure"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2025-01-22T09:00:00+03:00",
+                "valueQuantity": {
+                    "value": 150,
+                    "unit": "mm[Hg]"
+                },
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                                "code": "vital-signs",
+                                "display": "Vital Signs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "id": "6f429a44-cbe3-41db-9818-316c8a93e59b",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "2",
+                    "lastUpdated": "2025-01-23T06:57:12.288Z"
+                },
+                "status": "final",
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "8462-4",
+                            "display": "Diastolic Blood Pressure"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2025-01-22T09:00:00+03:00",
+                "valueQuantity": {
+                    "value": 91,
+                    "unit": "mm[Hg]"
+                },
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                                "code": "vital-signs",
+                                "display": "Vital Signs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "id": "05f42f3d-2e72-4093-98b4-dbb6276a564a",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "3",
+                    "lastUpdated": "2025-01-23T07:04:55.495Z"
+                },
+                "status": "final",
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "12190-5",
+                            "display": "Creatinine"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2024-12-07T09:44:22+03:00",
+                "valueQuantity": {
+                    "value": 0.7,
+                    "unit": "mg/dL"
+                },
+                "referenceRange": [
+                    {
+                        "low": {
+                            "value": 0.7,
+                            "unit": "mg/dL"
+                        },
+                        "high": {
+                            "value": 1.3,
+                            "unit": "mg/dL"
+                        }
+                    }
+                ],
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                                "code": "laboratory",
+                                "display": "Lab Result"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "id": "09a087fe-e834-41c9-b689-64d5e1a2343a",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "3",
+                    "lastUpdated": "2025-01-23T07:04:55.601Z"
+                },
+                "status": "final",
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "33914-3",
+                            "display": "Glomerular filtration rate (GFR)"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2024-12-07T09:44:22+03:00",
+                "valueQuantity": {
+                    "value": 92,
+                    "unit": "ml/min"
+                },
+                "referenceRange": [
+                    {
+                        "low": {
+                            "value": 90,
+                            "unit": "ml/min"
+                        }
+                    }
+                ],
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                                "code": "laboratory",
+                                "display": "Lab Result"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "id": "aa1d9a8e-c092-463c-b068-07e27f258383",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "3",
+                    "lastUpdated": "2025-01-23T07:04:55.784Z"
+                },
+                "status": "final",
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "2276-4",
+                            "display": "Ferritin in serum"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2024-12-07T09:44:22+03:00",
+                "valueQuantity": {
+                    "value": 32,
+                    "unit": "mcg/l"
+                },
+                "referenceRange": [
+                    {
+                        "low": {
+                            "value": 30,
+                            "unit": "mcg/l"
+                        },
+                        "high": {
+                            "value": 300,
+                            "unit": "mcg/l"
+                        }
+                    }
+                ],
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                                "code": "laboratory",
+                                "display": "Lab Result"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "id": "1f61095e-c07a-4c36-b523-84a61c822bb4",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "3",
+                    "lastUpdated": "2025-01-23T07:04:55.784Z"
+                },
+                "status": "final",
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "39789-3",
+                            "display": "Potassium in venous blood"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2024-12-07T09:44:22+03:00",
+                "valueQuantity": {
+                    "value": 4,
+                    "unit": "mmol/l"
+                },
+                "referenceRange": [
+                    {
+                        "low": {
+                            "value": 4.5,
+                            "unit": "mmol/l"
+                        },
+                        "high": {
+                            "value": 5.5,
+                            "unit": "mmol/l"
+                        }
+                    }
+                ],
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                                "code": "laboratory",
+                                "display": "Lab Result"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "id": "01747672-ee70-402f-b9df-4a06d328bf92",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "3",
+                    "lastUpdated": "2025-01-23T07:04:55.899Z"
+                },
+                "status": "final",
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "718-7",
+                            "display": "Hemoglobin in blood"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2024-12-07T09:44:22+03:00",
+                "valueQuantity": {
+                    "value": 14.1,
+                    "unit": "g/dl"
+                },
+                "referenceRange": [
+                    {
+                        "low": {
+                            "value": 14,
+                            "unit": "g/dl"
+                        },
+                        "high": {
+                            "value": 16,
+                            "unit": "g/dl"
+                        }
+                    }
+                ],
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                                "code": "laboratory",
+                                "display": "Lab Result"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "MedicationStatement",
+                "id": "566cae56-7762-48ef-8749-359d9608742b",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "1",
+                    "lastUpdated": "2025-01-23T06:44:27.892Z"
+                },
+                "status": "active",
+                "medicationCodeableConcept": {
+                    "coding": [
+                        {
+                            "system": "http://www.whocc.no/atc",
+                            "code": "C08CA01",
+                            "display": "Amlodipin"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "effectiveDateTime": "2025-01-03T09:44:22+03:00",
+                "dateAsserted": "2025-01-03T09:44:22+03:00"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Condition",
+                "id": "a769d200-285f-4c8a-88e3-37006d64f8d4",
+                "meta": {
+                    "source": "http://kroniq.srdc.com.tr/ehr",
+                    "versionId": "1",
+                    "lastUpdated": "2025-01-23T06:44:27.891Z"
+                },
+                "clinicalStatus": {
+                    "coding": [
+                        {
+                            "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+                            "code": "active"
+                        }
+                    ]
+                },
+                "verificationStatus": {
+                    "coding": [
+                        {
+                            "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+                            "code": "confirmed"
+                        }
+                    ]
+                },
+                "category": [
+                    {
+                        "coding": [
+                            {
+                                "system": "http://terminology.hl7.org/CodeSystem/condition-category",
+                                "code": "diagnosis",
+                                "display": "Diagnosis"
+                            }
+                        ]
+                    }
+                ],
+                "code": {
+                    "coding": [
+                        {
+                            "system": "http://hl7.org/fhir/sid/icd-10",
+                            "code": "I10.0",
+                            "display": "Essential (primary) hypertension"
+                        }
+                    ]
+                },
+                "subject": {
+                    "reference": "Patient/llm-8-2"
+                },
+                "onsetDateTime": "2024-10-23T09:44:22+03:00",
+                "recordedDate": "2024-10-23"
+            }
+        }
+    ]
+}

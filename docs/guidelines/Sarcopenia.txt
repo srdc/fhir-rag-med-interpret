@@ -1,0 +1,19 @@
+Frailty and Sarcopenia
+
+Assessment:
+
+Frailty is a marker of future dementia and should be assessed in multimorbid older adults with MCI.
+
+Multimorbid older adults with MCI or mild dementia should be screened for sarcopenia and frailty annually, or after the occurrence of major health events. Screening for sarcopenia can be performed using clinical suspicion, or with the SARC-F questionnaire. Screening for frailty can be performed using the FRAIL instrument, or performance measurements like gait speed or the Short Physical Performance Battery (SPPB). Individuals screened as positive for sarcopenia or frailty should be referred for further assessment to confirm the presence of the disease.
+
+Diagnosis:
+
+Grip strength should be used to determine low levels of muscle strength, and gait speed or the SPPB should be used to determine low levels of physical performance when diagnosing sarcopenia. Low muscle mass confirmation may be done using dual-energy x-ray absorptiometry (DXA), bioimpedanciometry, ultrasonography, Computed Tomography scan or Magnetic Resonance Imaging scan. 
+
+The Frailty Phenotype, the Frailty index, the Clinical Frailty Scale, or the Comprehensive Geriatric Assessment may be used to confirm the presence of frailty.
+
+Management:
+
+In patients with frailty or sarcopenia, prescribe resistance-based exercise training, to improve lean mass, strength, and physical function. 
+
+Consider protein supplementation or a protein-rich diet for older adults with frailty or sarcopenia and consider discussing with patients the importance of adequate calorie and protein intake. Nutritional (protein) intervention should be combined with a physical activity intervention, and/or resistance-based training.

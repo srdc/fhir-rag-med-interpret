@@ -1,0 +1,1 @@
+set PYTHONPATH=. && python src\core\recommendation\interpretation.py
