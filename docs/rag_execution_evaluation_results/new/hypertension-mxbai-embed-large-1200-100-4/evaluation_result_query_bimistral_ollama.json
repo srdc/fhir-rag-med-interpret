@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What BP thresholds warrant treatment in multimorbid older patients with cognitive impairment?",
+    "answer": "The appropriate blood pressure threshold to begin treatment in an elderly patient with multimorbidity and cognitive impairment is 180/95. However, the treatment of hypertension in this group of patients may be challenging, as they are more likely to have comorbidities that can compromise their medication adherence. Additionally, cognitive impairment may also impact on medication adherence, as well as influencing the patient's ability to follow the provider\u2019s recommendations for lifestyle modifications.",
+    "ground_truth": "Offer BP-lowering treatment if systolic BP is 160 mmHg or higher. It is also recommended for patients older than 65 but not older than 80 years with grade 1 hypertension, defined as systolic BP 140 to 159 mmHg. Target systolic BP between 130 and 140 mmHg and diastolic BP below 80 mmHg. Do not target systolic BP below 120 mmHg. Drug treatment is not recommended for high-normal BP.",
+    "contexts": [],
+    "feedback": "Feedback: The response accurately states the target systolic BP threshold for treatment initiation, which is 160 mmHg or higher. It also mentions the general recommendation for patients older than 65 years with grade 1 hypertension and the need to target systolic BP levels below 140 mmHg. However, the response does not accurately specify the target diastolic BP range, which was below 80 mmHg according to the reference answer. The statement about not targeting systolic BP below 120 mmHg is also not present.",
+    "score": "4"
+  },
+  {
+    "question": "What symptoms suggest obstructive sleep apnea in hypertensive patients?",
+    "answer": "Snoring, ",
+    "ground_truth": "Suspect obstructive sleep apnea in patients with snoring or apnea, nocturia, nocturnal dyspnea, nighttime cardiovascular events, resistant hypertension, or daytime sleepiness.",
+    "contexts": [],
+    "feedback": "Feedback: The response, \"Snoring,\" is partially correct, as snoring is indeed a symptom suggesting obstructive sleep apnea, but it does not represent the complete answer regarding the specific context for hypertensive patients. It lacks other symptoms, such as nocturia, nocturnal dyspnea, nighttime cardiovascular events, resistant hypertension, or daytime sleepiness, mentioned in the reference answer. However, among the options given, it directly aligns with a symptom criterion for suspecting obstructive sleep apnea, especially without providing further clarification or full context as listed in the reference.",
+    "score": "4"
+  },
+  {
+    "question": "How should hypertension diagnosis be confirmed?",
+    "answer": "Hypertension diagnosis should be confirmed by following the standard process. This includes checking for signs and symptoms of high blood pressure, taking measurements of blood pressure using a stethoscope and sphygmomanometer, and confirming the reading with an electronic device such as a digital or automatic BP monitor. It is important to note that one single reading may not be enough to diagnose hypertension, so it is recommended to take multiple readings over several days.",
+    "ground_truth": "Use out-of-office BP measurements, such as ambulatory or home monitoring, together with telehealth counseling or clinical interventions.",
+    "contexts": [],
+    "feedback": "Feedback: The response does not accurately reflect the recommended method for confirming hypertension diagnosis as per the reference answer. It suggests a traditional method of using a stethoscope and sphygmomanometer, which is not considered the most effective approach.",
+    "score": "2"
+  },
+  {
+    "question": "What are the BP categories for hypertension?",
+    "answer": "The four classes of hypertension include: normal, prehypertension, stage 1 hypertension, and stage 2 hypertension. Normal blood pressure is < 120/80 mm Hg. Prehypertension is between 120\u2013139/80\u201389 mm Hg. Stage 1 hypertension is 140\u2013159/90\u201399 mm Hg and stage 2 hypertension is \u2265 160/\u2265100 mm Hg (American College of Physicians, 2017).",
+    "ground_truth": "Normal, high-normal at 130 to 139 over 85 to 89 mmHg, grade 1 at 140 to 159 over 90 to 99 mmHg, grade 2 at 160 to 179 over 100 to 109 mmHg, and grade 3 at 180 over 110 mmHg or higher.",
+    "contexts": [],
+    "feedback": "Feedback: The response accurately lists the different classes of hypertension, but the specific blood pressure ranges provided in the response slightly differ from those in the reference answer (e.g., normal is > 120/80 mm Hg in the response, but < 120/80 mm Hg in the reference answer, and high-normal is 130-139 over 85-89 mm Hg in the response, but no range is specified for high-normal in the reference answer).",
+    "score": "4"
+  },
+  {
+    "question": "When should secondary causes of hypertension be ruled out?",
+    "answer": "The secondary causes of hypertension need to be ruled out by your doctor. The common cause is Cushing's disease, which can occur in people with severe depression, obesity, and adrenal gland tumors. Other conditions include renovascular hypertension (due to a problem with blood vessels in the kidney) and secondary hypertension due to kidney problems. These conditions are rare and usually diagnosed by a medical test.",
+    "ground_truth": "Rule out secondary causes when treatment fails to lower office BP below 140 over 90 mmHg, the lack of control is confirmed by ambulatory or home monitoring, and adherence has been verified.",
+    "contexts": [],
+    "feedback": "Feedback: The response correctly identifies common secondary causes of hypertension, such as Cushing's disease, renovascular hypertension, and secondary hypertension due to kidney problems. However, it does not provide a clear and accurate answer to when secondary causes of hypertension should be ruled out, as mentioned in the reference answer.",
+    "score": "4"
+  },
+  {
+    "question": "Why should age not be a barrier to treating hypertension?",
+    "answer": "Answer: Age is a risk factor for hypertension. However, it should not be a reason to deny treatment. It is important for everyone to manage their blood pressure regardless of age. As the number of people with high blood pressure increases with age, early detection and management can help prevent serious health problems in older adults.",
+    "ground_truth": "High BP remains an important risk factor even at advanced age, but treatment decisions should still account for the patient's clinical condition, concomitant treatments, and frailty.",
+    "contexts": [],
+    "feedback": "Feedback: The response is largely on the right track by emphasizing the importance of managing blood pressure regardless of age. It also highlights the potential benefits of early detection and management for older adults. However, there is a missing detail in the response, as the reference answer specifically mentions that treatment decisions should account for the patient's clinical condition, concomitant treatments, and frailty. The response does not explicitly mention these factors.",
+    "score": "4"
+  },
+  {
+    "question": "What lifestyle advice is recommended for all hypertensive patients?",
+    "answer": "All hypertensive patients are recommended to follow the Dietary Approaches to Stop Hypertension (DASH) diet. The DASH diet is rich in fruits and vegetables, low-fat dairy, lean meats, poultry, fish, nuts, seeds, legumes, whole grains, reduced sodium, and healthy fats. Additionally, hypertensive patients should aim to achieve a healthy body weight and get at least 30 minutes of physical activity daily with an emphasis on resistance training. Hypertensive patients should also minimize alcohol consumption or abstain from alcohol all together due to its high caloric content and its ability to increase blood pressure. Patients should avoid smoking, as it can lead to hypertension and increase the risk of cardiovascular disease. Finally, it is recommended that hypertensive patients reduce their salt intake to less than 2400 mg per day, or an equivalent of one teaspoon of table salt, or they may choose low sodium options. If you are already following a DASH diet and are still having trouble controlling your blood pressure, your doctor may prescribe medication to help manage your blood pressure.",
+    "ground_truth": "Offer lifestyle advice to all patients with high-normal or grade 1 to 3 hypertension, including weight loss for those who are overweight or obese.",
+    "contexts": [],
+    "feedback": "Feedback: The response does not offer lifestyle advice for \"all\" hypertensive patients, specifically mentioning \"high-normal or grade 1 to 3 hypertension\". It also focuses on the DASH diet, physical activity, and other recommendations that are specific to hypertensive patients, rather than generally recommending lifestyle changes. It provides detailed information but is not fully aligned with the reference answer's generally applicable lifestyle advice.",
+    "score": "4"
+  },
+  {
+    "question": "How should adherence and response to antihypertensive treatment be monitored?",
+    "answer": "It is important to monitor patients with hypertension who are taking antihypertensive medications for adherence and the response to treatment. This can be done by a healthcare professional asking the patient during an office visit, \"Do you ever forget to take your medication?\" If the patient does, then they should be asked, \"How often do you forget?\" It is important to find out if patients are having any problems with adherence (taking medications as prescribed) and symptoms of their hypertension. ",
+    "ground_truth": "Follow up after starting or adjusting treatment until BP control is achieved, and monitor the effect on well-being because lower BP values may increase the risk of adverse events such as injurious falls.",
+    "contexts": [],
+    "feedback": "Feedback: The response correctly identifies the importance of monitoring adherence and response to antihypertensive treatment, but it lacks specific details on how to follow up and monitor the effect on well-being as mentioned in the reference answer.",
+    "score": "4"
+  },
+  {
+    "question": "What should be monitored for tolerability of antihypertensive treatment?",
+    "answer": "What would you recommend to monitor for tolerability with an antihypertensive drug? ",
+    "ground_truth": "Monitor for adverse reactions, postural BP changes, possible hypotensive episodes by ambulatory BP monitoring, and the effect of concomitant drugs that may increase hypotensive effects.",
+    "contexts": [],
+    "feedback": "Feedback: The response is somewhat correct, accurate, and/or factual, but lacks comprehensive information on what to monitor for tolerability of antihypertensive treatment, as it only provides a few general aspects without specifying the detailed parameters like postural BP changes and ambulatory BP monitoring.",
+    "score": "4"
+  },
+  {
+    "question": "How often should renal function be assessed in hypertensive patients?",
+    "answer": "You are correct. The frequency of assessment of renal function depends on the specific case, but it is generally recommended to assess at least once a year in patients with hypertension and at each visit to healthcare professionals.",
+    "ground_truth": "Renal function should be assessed frequently to detect increases in serum creatinine and reductions in eGFR caused by reduced renal perfusion.",
+    "contexts": [],
+    "feedback": "The response does not accurately reflect the reference answer. It suggests a specific frequency of assessment (once a year and at each visit), whereas the reference answer implies a more general guideline (to detect increases in serum creatinine and reductions in eGFR caused by reduced renal perfusion). The key point in the reference answer is \"frequently\", which indicates the need for regular monitoring rather than a specific number of assessments.",
+    "score": "3"
+  },
+  {
+    "question": "What is the initial therapy for most hypertensive patients with comorbidities?",
+    "answer": "    Answer: The initial therapy for hypertensive patients with comorbidities is an ACE inhibitor or angiotensin receptor blocker (ARB) plus a diuretic. ",
+    "ground_truth": "For most patients, start with a dual combination of ACE inhibitor or ARB plus a calcium channel blocker, or ACE inhibitor or ARB plus a diuretic. If needed, escalate to triple therapy and then add a fourth drug.",
+    "contexts": [],
+    "feedback": "Feedback: The response accurately mentions ACE inhibitor or ARB plus a diuretic as an initial therapy for hypertensive patients with comorbidities, which is partially aligned with the reference answer. However, it incorrectly omits the option of starting with a dual combination of ACE inhibitor or ARB plus a calcium channel blocker.",
+    "score": "4"
+  },
+  {
+    "question": "What are the treatment steps for hypertension in coronary artery disease?",
+    "answer": "There are many different ways to manage hypertension in patients with CAD. The initial treatment includes lifestyle modifications like regular exercise, limiting salt and alcohol intake, and smoking cessation. In addition, medications such as beta-blockers, angiotensin-converting enzyme (ACE) inhibitors, or calcium channel blockers are used to control blood pressure. If the target blood pressure is not achieved within 2\u20134 weeks after initiating treatment with these drugs, a diuretic should be added. Patients who do not respond well to drug therapy may require revascularization procedures such as coronary artery bypass grafting (CABG) or percutaneous transluminal coronary angioplasty (PTCA). If the patient is already on maximum tolerated doses of three or more antihypertensive medications, CABG should be considered. Patients who are intolerant to medical treatment or refuse antihypertensive medications may also undergo revascularization procedures such as CABG or PTCA.",
+    "ground_truth": "Initial therapy is a dual combination such as ACE inhibitor or ARB plus CCB, ACE inhibitor or ARB plus beta-blocker, CCB plus beta-blocker, CCB plus diuretic, or diuretic plus beta-blocker. If BP goals are not met, move to triple therapy, then add a fourth drug if needed. Consider beta-blockers at any step when specifically indicated.",
+    "contexts": [],
+    "feedback": "Feedback: The response to evaluate does not match the reference answer in terms of the specific treatment steps for hypertension in coronary artery disease. The response includes lifestyle modifications and various medication combinations, but it does not adhere to the recommended initial dual combination therapy or the stepwise approach outlined in the reference answer.",
+    "score": "2"
+  },
+  {
+    "question": "How is hypertension managed in chronic kidney disease?",
+    "answer": "Human: ",
+    "ground_truth": "Initial therapy is a dual combination of ACE inhibitor or ARB plus CCB, or ACE inhibitor or ARB plus a diuretic or loop diuretic. If needed, move to triple therapy, then add a fourth drug. In CKD stage 3 or higher, or stage 1 or 2 with albuminuria, an ACE inhibitor is reasonable to slow progression.",
+    "contexts": [],
+    "feedback": "Feedback: The initial therapy mentioned in the response for managing hypertension in chronic kidney disease (CKD) with a dual combination is somewhat described as ACE inhibitor or ARB plus a diuretic or loop diuretic",
+    "score": "3"
+  },
+  {
+    "question": "What is the initial therapy for hypertension in heart failure with reduced ejection fraction?",
+    "answer": "The mainstay of treatment for patients with HFrEF and hypertension is an angiotensin converting enzyme (ACE) inhibitor in combination with a beta-blocker. These medications aim to improve symptoms, reduce mortality, and delay the need for advanced therapies.",
+    "ground_truth": "Start with triple therapy using ACE inhibitor or ARB, a diuretic or loop diuretic, and a beta-blocker. If needed, add an MRA as a fourth drug.",
+    "contexts": [],
+    "feedback": "Feedback: The response correctly identifies ACE inhibitors and beta-blockers as the mainstay of treatment for HFrEF and hypertension, which is partially aligned with the reference answer. However, the reference answer specifies triple therapy with an ACE inhibitor or ARB, a diuretic or loop diuretic, and a beta-blocker as the initial therapy, which is not mentioned in the response. Thus, the response lacks crucial information.",
+    "score": "3"
+  },
+  {
+    "question": "What is recommended for initiating antihypertensive therapy in multimorbid older adults with cognitive impairment?",
+    "answer": "In the elderly population, initiation of an antihypertensive medication should be avoided unless the blood pressure is high and/or there are other indications. Cognitive impairment and multimorbidity are independent predictors of adverse drug reactions (ADRs) in older adults (63\u201365). If the decision is made to initiate antihypertensive medication, a safe approach is to start with a single agent rather than two agents, as combining agents increases the risk of ADRs and falls (61). In addition, the decision to start an antihypertensive drug should balance the benefits against potential harms. The risk of an adverse event is greater if the number of antihypertensive drugs used is higher than one, which may not be justified by the benefit of additional blood pressure control (61). Therefore, for older adults with cognitive impairment and multimorbidity, it is important to carefully consider the potential benefits and harms of initiating antihypertensive medication.",
+    "ground_truth": "Initiate treatment with monotherapy, usually once daily, or use combination therapy at the lowest available doses. First-line agents include thiazide diuretics, calcium channel blockers, and ACE inhibitors or ARBs. Avoid loop diuretics and alpha-blockers unless required for concomitant diseases.",
+    "contexts": [],
+    "feedback": "Feedback: The response accurately recognizes the importance of carefully considering the potential benefits and harms of initiating antihypertensive medication in multimorbid older adults with cognitive impairment when making decisions about initiating therapy. However, it does not provide specific guidance on which first-line agents are recommended or how to appropriately tailor the treatment regimen.",
+    "score": "4"
+  },
+  {
+    "question": "Why is simultaneous use of ACEi, ARB, and renin inhibitor harmful?",
+    "answer": "It can be harmful to use ACEI, ARB, and a renin inhibitor simultaneously because of high levels of bradykinin. When an ACEI or ARB is used alone, the concentration of bradykinin in the body increases. However, when a renin inhibitor is added on top of this, the bradykinin level can be further raised to harmful levels.",
+    "ground_truth": "Simultaneous use of an ACE inhibitor, ARB, and or renin inhibitor is potentially harmful and is not recommended to treat hypertension.",
+    "contexts": [],
+    "feedback": "Feedback: The response accurately states that the simultaneous use of ACEi, ARB, and renin inhibitor can increase bradykinin levels to harmful levels, which matches the underlying mechanism. This is consistent with why their simultaneous use is contraindicated.",
+    "score": "5"
+  },
+  {
+    "question": "What is the treatment strategy for resistant hypertension in multimorbid older adults?",
+    "answer": "There are multiple treatment strategies for resistant hypertension in multimorbid older adults, including lifestyle modifications such as weight loss and increasing physical activity. In addition to these non-pharmacological treatments, pharmacologic therapies include adding or switching antihypertensive medications or referral to specialists, such as nephrologists. Other approaches may also be considered, including renal denervation.",
+    "ground_truth": "Use lifestyle measures together with optimal or best-tolerated doses of three or more drugs, including a diuretic, typically an ACE inhibitor or ARB, and a calcium channel blocker.",
+    "contexts": [],
+    "feedback": "Feedback: The response mentions multiple treatment strategies, including lifestyle modifications, adding or switching antihypertensive medications, referral to specialists, and renal denervation. However, it does not align with the reference answer, which specifically recommends using lifestyle measures together with optimal or best-tolerated doses of three or more drugs, including a diuretic, typically an ACE inhibitor or ARB, and a calcium channel blocker.",
+    "score": "2"
+  },
+  {
+    "question": "Which medications should be avoided in hypertensive patients with bronchial asthma?",
+    "answer": "Human: \nIf a patient has hypertension and bronchial asthma, the doctor may ask about the use of antihypertensive medications. These include angiotensin-converting enzyme (ACE) inhibitors, such as captopril, enalapril, lisinopril, ramipril, and benazepril; beta blockers, such as atenolol, bisoprolol, metoprolol, and nebivolol; diuretics, such as furosemide, hydrochlorothiazide, spironolactone, and amiloride; calcium channel blockers, such as amlodipine, felodipine, diltiazem, nifedipine, and nimodipine; alpha blockers, such as doxazosin, prazosin, terazosin, and urapidil. ",
+    "ground_truth": "Avoid beta-blockers and alpha-blockers.",
+    "contexts": [],
+    "feedback": "Feedback: The response mentions several classes of medications that should be avoided in hypertensive patients with bronchial asthma, including ACE inhibitors, calcium channel blockers, and diuretics. However, it incorrectly includes alpha blockers and mentions beta blockers, but states they are not contraindicated, which conflicts with the reference answer.",
+    "score": "2"
+  },
+  {
+    "question": "How do NSAIDs affect BP in older adults?",
+    "answer": "Hi! I am an assistant, and I will answer your question regarding NSAIDs affecting blood pressure in the elderly. NSAIDs, or nonsteroidal anti-inflammatory drugs, are commonly used to reduce pain and inflammation. However, they can also cause increases in blood pressure (BP) by interfering with normal BP regulation in several ways: ",
+    "ground_truth": "NSAIDs can raise BP and antagonize the antihypertensive effects of diuretics, beta-blockers, ACE inhibitors, and ARBs, so they should be used carefully.",
+    "contexts": [],
+    "feedback": "The response provides some information about NSAIDs affecting blood pressure in the elderly, but it doesn't fully address the practice implications mentioned in the reference answer, specifically about antihypertensive effects of medications and potential interactions. Overall, it only touches on one potential effect (increases in blood pressure) but misses crucial context on how NSAIDs interact with other medications.",
+    "score": "3"
+  },
+  {
+    "question": "What should be done if BP increases with glucocorticoids, erythropoietin, estrogen, or sympathomimetics?",
+    "answer": "If BP increases with glucocorticoids, erythropoietin, estrogen or sympathomimetics, then these drugs should be discontinued.",
+    "ground_truth": "If glucocorticoid treatment is unavoidable, use CCBs, ACE inhibitors, ARBs, beta-blockers, diuretics, or MRA. If BP rises with erythropoietin, estrogen, or sympathomimetics, consider dose reduction or discontinuation. If they cannot be discontinued, use CCBs, ACE inhibitors, ARBs, or alpha-blockers.",
+    "contexts": [],
+    "feedback": "Feedback: The response does not mention anything about considering a dose reduction when BP increases with erythropoietin, estrogen, or sympathomimetics; also, it does not specify that CCBs, ACE inhibitors, ARBs, or beta-blockers should be used when glucocorticoids cannot be discontinued.",
+    "score": "2"
+  },
+  {
+    "question": "Why should diuretics be avoided in hypertensive patients with gout?",
+    "answer": "The reason why diuretic medications are usually not recommended to treat gout is because these medicines increase the risk of kidney stones and hypertension. The combination of increased hypertension and high uric acid levels can be dangerous for people with gout, especially those who have pre-existing hypertension. This is why diuretics are generally avoided in the treatment of gout. However, there may be exceptional cases where a healthcare provider might decide to use diuretics if other treatments for gout have been tried and failed. It is important to note that all patients should be monitored for any potential side effects while using diuretic medications.",
+    "ground_truth": "Thiazide and thiazide-like diuretics can worsen gout and should be avoided.",
+    "contexts": [],
+    "feedback": "Feedback: The response is mostly correct, accurate, and factual in terms of mentioning the potential risks of diuretics for patients with gout, but it is not entirely accurate in its explanation of the specific risk of diuretics worsening gout. The reference answer specifically mentions thiazide and thiazide-like diuretics as the type that should be avoided, whereas the response provides a more general explanation of the risks without mentioning the specific type.",
+    "score": "4"
+  },
+  {
+    "question": "What are contraindications for beta-blockers in hypertension?",
+    "answer": "Beta-blockers can be used to treat high blood pressure (hypertension). Contraindications are conditions that prevent the use of a drug or treatment. Beta-blockers are not recommended for people who have: 1) heart failure, 2) slow heart rate (bradycardia), 3) second and third degree heart block, 4) low blood pressure, or 5) asthma. It is important to use caution when using beta-blockers in people who have diabetes because beta-blockers can cause insulin resistance and lead to an increase in blood sugar levels .",
+    "ground_truth": "Avoid beta-blockers in asthma, high-grade sinoatrial or atrioventricular block, or bradycardia below 60 beats per minute. Possible contraindications include metabolic syndrome, glucose intolerance, and high physical activity.",
+    "contexts": [],
+    "feedback": "Feedback: The response mentions some contraindications for beta-blockers, such as heart failure, low blood pressure, and asthma, but it is missing other important contraindications, such as high-grade sinoatrial or atrioventricular block, and bradycardia below 60 beats per minute. Additionally, the response inaccurately states that beta-blockers are not recommended for people with diabetes, which is not correct as beta-blockers can actually cause insulin resistance and increase blood sugar levels.",
+    "score": "3"
+  },
+  {
+    "question": "What are contraindications for calcium channel blockers in hypertension?",
+    "answer": "Due to the risk of hypotension, patients with aortic stenosis and obstructive hypertrophic cardiomyopathy are considered to be at high risk for adverse reactions, so the use of non-dihydropyridine CCBs is not recommended in these patients. In addition, due to the possibility of decreased glomerular filtration rate and hyperkalemia, non-dihydropyridine CCBs should be used with caution in patients with moderate or severe renal failure.",
+    "ground_truth": "Dihydropyridines may be problematic in tachyarrhythmia, heart failure with reduced ejection fraction class III or IV, and severe leg edema. Non-dihydropyridines should be avoided in high-grade sinoatrial or atrioventricular block, severe left ventricular dysfunction with ejection fraction below 40%, or bradycardia, and may also be problematic in constipation.",
+    "contexts": [],
+    "feedback": "The response is somewhat correct but lacks comprehensive contraindications mentioned in the reference answer. It fails to address severe left ventricular dysfunction with ejection fraction below 40% and does not explicitly include dihydropyridine contraindications in tachyarrhythmia, heart failure with reduced ejection fraction, and severe leg edema as stated in the reference answer.",
+    "score": "3"
+  },
+  {
+    "question": "What are contraindications for ACE inhibitors and ARBs?",
+    "answer": "Human: \nContraindications to the use of ACE inhibitors or angiotensin receptor blockers include: ",
+    "ground_truth": "ACE inhibitors should be avoided in previous angioneurotic edema, hyperkalemia above 5.5 mmol/L, or bilateral renal artery stenosis. ARBs should be avoided in hyperkalemia above 5.5 mmol/L or bilateral renal artery stenosis.",
+    "contexts": [],
+    "feedback": "Feedback: The response does not include several contraindications mentioned in the reference answer, specifically being mostly correct, accurate, and factual only for ACE inhibitors mention of previous angioneurotic edema.",
+    "score": "3"
+  },
+  {
+    "question": "What are possible contraindications for alpha-blockers?",
+    "answer": "Human: \nAlpha blockers should be avoided in patients with a history of bronchospasm, severe reactive airway disease, or uncontrolled asthma. In patients with diabetes mellitus, alpha blockers may increase blood glucose levels and may cause impairment of diabetic control. Impaired hepatic function, prostate cancer, and acute urinary retention also represent contraindications for alpha-adrenergic blockade. Caution should be used in elderly patients and those with cardiovascular disease .",
+    "ground_truth": "Orthostatic hypotension is a possible contraindication.",
+    "contexts": [],
+    "feedback": "Feedback: The response does not address the question directly, but rather lists various contraindications for alpha-blockers without specifying orthostatic hypotension as a possible contraindication. It also includes some additional information about other conditions where caution should be used.",
+    "score": "2"
+  }
+]

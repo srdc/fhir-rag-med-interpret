@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Why should frailty be assessed in multimorbid older adults with MCI?",
+        "answer": "Frailty is a marker of future dementia and should be assessed in multimorbid older adults with MCI."
+    },
+    {
+        "question": "How often should screening for sarcopenia and frailty be performed in older adults with MCI or mild dementia?",
+        "answer": "Screen annually or after major health events."
+    },
+    {
+        "question": "What tools can be used for screening sarcopenia?",
+        "answer": "Clinical suspicion or the SARC-F questionnaire."
+    },
+    {
+        "question": "What tools can be used for screening frailty?",
+        "answer": "The FRAIL instrument, gait speed, or the Short Physical Performance Battery (SPPB)."
+    },
+    {
+        "question": "What should be done if screening is positive for sarcopenia or frailty?",
+        "answer": "Refer for further assessment to confirm the presence of the disease."
+    },
+    {
+        "question": "How is low muscle strength determined in sarcopenia diagnosis?",
+        "answer": "Using grip strength measurements."
+    },
+    {
+        "question": "How is low physical performance determined in sarcopenia diagnosis?",
+        "answer": "Using gait speed or the Short Physical Performance Battery (SPPB)."
+    },
+    {
+        "question": "What methods can confirm low muscle mass in sarcopenia?",
+        "answer": "Dual-energy x-ray absorptiometry (DXA), bioimpedanciometry, ultrasonography, Computed Tomography scan, or Magnetic Resonance Imaging scan."
+    },
+    {
+        "question": "What tools can confirm the diagnosis of frailty?",
+        "answer": "The Frailty Phenotype, the Frailty index, the Clinical Frailty Scale, or the Comprehensive Geriatric Assessment."
+    },
+    {
+        "question": "What is the primary exercise recommendation for managing frailty and sarcopenia?",
+        "answer": "Prescribe resistance-based exercise training to improve lean mass, strength, and physical function."
+    },
+    {
+        "question": "What nutritional interventions are recommended for frailty and sarcopenia?",
+        "answer": "Consider protein supplementation or a protein-rich diet, combined with physical activity and/or resistance-based training."
+    },
+    {
+        "question": "Why should nutritional interventions be combined with physical activity in frailty and sarcopenia?",
+        "answer": "To ensure adequate calorie and protein intake, and to maximize benefits through combined approaches."
+    }
+]

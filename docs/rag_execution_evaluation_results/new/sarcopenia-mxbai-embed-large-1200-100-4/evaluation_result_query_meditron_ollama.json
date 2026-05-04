@@ -1,0 +1,98 @@
+[
+  {
+    "question": "Why should frailty be assessed in multimorbid older adults with MCI?",
+    "answer": "Answer the question based only on the following context: \nYou are a helpful, respectful, and honest medical assistant. \nIf you don't know the answer to a question, please don't share false information.\nDon't provide incomplete sentences.",
+    "ground_truth": "Frailty is a marker of future dementia and should be assessed in multimorbid older adults with MCI.",
+    "contexts": [],
+    "feedback": "Feedback: The response is correct in stating that frailty is a marker of future dementia. However, it lacks specificity in mentioning that the assessment of frailty in multimorbid older adults with MCI can aid in early detection, prevention, and management of dementia. This nuance is crucial in providing comprehensive care for this population.",
+    "score": "4"
+  },
+  {
+    "question": "How often should screening for sarcopenia and frailty be performed in older adults with MCI or mild dementia?",
+    "answer": "    There is no clear recommendation for this topic. The current literature does not have conclusive results about the frequency of screening for sarcopenia and frailty in older adults with MCI or mild dementia. \n    ",
+    "ground_truth": "Screen annually or after major health events.",
+    "contexts": [],
+    "feedback": "Feedback: The response states that there is no clear recommendation for screening frequency, which is accurate according to the current literature, but the reference answer suggests a recommended frequency of annually or after major health events, which is not mentioned in the response.",
+    "score": "2"
+  },
+  {
+    "question": "What tools can be used for screening sarcopenia?",
+    "answer": "Sarcopenia, a degenerative disease that occurs in the elderly, is defined as an age-related decrease in skeletal muscle mass and strength. \nThere are many screening tools for sarcopenia, such as handgrip strength, 5 times sit to stand test, 400 m walking time, chair rising test, knee extension strength, etc.\n",
+    "ground_truth": "Clinical suspicion or the SARC-F questionnaire.",
+    "contexts": [],
+    "feedback": "The response correctly lists multiple screening tools for sarcopenia, including handgrip strength, 5 times sit to stand test, and others. However, it does not mention the Clinical suspicion or the SARC-F questionnaire, which are the recommended screening methods according to the reference answer. This indicates some discrepancies in the correctness of the response, but the listed tools appear to be accurate.",
+    "score": "2"
+  },
+  {
+    "question": "What tools can be used for screening frailty?",
+    "answer": "If the patient is 50 years old or older: Frailty Screening Tool.\nIf the patient is under 50: \n    ",
+    "ground_truth": "The FRAIL instrument, gait speed, or the Short Physical Performance Battery (SPPB).",
+    "contexts": [],
+    "feedback": "Feedback: The response only mentions one possible tool for patients 50 years old or older, but it does not consider the age criteria for the second option, nor does it provide consistent alternatives for screening frailty in patients under 50.",
+    "score": "2"
+  },
+  {
+    "question": "What should be done if screening is positive for sarcopenia or frailty?",
+    "answer": "Ask the user to specify the type of the question they want to know more.\n",
+    "ground_truth": "Refer for further assessment to confirm the presence of the disease.",
+    "contexts": [],
+    "feedback": "Feedback: The response is to ask for further clarification, but the correct response would be a clear action to take, which is referring the user for further assessment to confirm the presence of sarcopenia or frailty directly. This is more than the response provided.",
+    "score": "4"
+  },
+  {
+    "question": "How is low muscle strength determined in sarcopenia diagnosis?",
+    "answer": "The answer for your question is: \nSarcopenia is a common geriatric syndrome and the result of the combination of the age-related decline in muscle mass and function. Muscle strength declines at an average rate of about 3% to 5% per year after age 50, with greater loss in men than in women.",
+    "ground_truth": "Using grip strength measurements.",
+    "contexts": [],
+    "feedback": "Feedback: The response implies a description of sarcopenia, its effects on muscle mass and function, and the rate of muscle strength decline with age, but it does not address how low muscle strength is determined in sarcopenia diagnosis.",
+    "score": "3"
+  },
+  {
+    "question": "How is low physical performance determined in sarcopenia diagnosis?",
+    "answer": "The following is a list of the most common symptoms associated with sarcopenia: \n- Increased muscle loss\n- Reduced muscle strength (e.g., hand grip)\n- Low physical performance (e.g., walking speed, chair stand time)\n- Decreased body mass index (BMI)\nIf the patient has two or more of these symptoms, sarcopenia can be diagnosed. \n",
+    "ground_truth": "Using gait speed or the Short Physical Performance Battery (SPPB).",
+    "contexts": [],
+    "feedback": "Feedback: The response incorrectly lists a series of symptoms associated with sarcopenia, but fails to accurately address how low physical performance is determined in sarcopenia diagnosis, which is actually assessed using gait speed or the Short Physical Performance Battery (SPPB), as per the reference answer.",
+    "score": "2"
+  },
+  {
+    "question": "What methods can confirm low muscle mass in sarcopenia?",
+    "answer": "Muscle mass is used to define strength, endurance, and performance. \nMuscle mass loss can affect a person's ability to complete daily activities (ADL).\nThe methods of confirming muscle mass are: \n    - Body Mass Index;\n    - Computed Tomography;\n    - Ultrasound Examination;\n    - Magnetic Resonance Imaging;\n    - Dual Energy X-ray Absorptiometry.\n",
+    "ground_truth": "Dual-energy x-ray absorptiometry (DXA), bioimpedanciometry, ultrasonography, Computed Tomography scan, or Magnetic Resonance Imaging scan.",
+    "contexts": [],
+    "feedback": "Feedback: The response provides a list of methods to confirm low muscle mass in sarcopenia, including Body Mass Index, Computed Tomography, Ultrasound Examination, Magnetic Resonance Imaging, and Dual Energy X-ray Absorptiometry, which are all accurate and factual based on the reference answer. However, the response includes two methods (Body Mass Index and Ultrasound Examination) that are not specifically mentioned in the reference answer, which might be considered slightly inaccurate. Nevertheless, the core methods mentioned (Computed Tomography, Magnetic Resonance Imaging, and Dual Energy X-ray Absorptiometry) are correctly identified.",
+    "score": "4"
+  },
+  {
+    "question": "What tools can confirm the diagnosis of frailty?",
+    "answer": "You have a list of possible answers that you can provide to your user. The answers are in a tabular format with the following headings: \nName:\nSuggestion:\nExplanation:\nReference:\n",
+    "ground_truth": "The Frailty Phenotype, the Frailty index, the Clinical Frailty Scale, or the Comprehensive Geriatric Assessment.",
+    "contexts": [],
+    "feedback": "Feedback: The table provided does contain some measures/tests that can be used to confirm the diagnosis of frailty, but it does not exactly match the reference answer. The measures/tests listed are similar but not the exact ones mentioned.",
+    "score": "4"
+  },
+  {
+    "question": "What is the primary exercise recommendation for managing frailty and sarcopenia?",
+    "answer": "",
+    "ground_truth": "Prescribe resistance-based exercise training to improve lean mass, strength, and physical function.",
+    "contexts": [],
+    "feedback": "Feedback: The response is almost correct, but lacks specificity regarding the focus on resistance-based exercise training as the primary prescription, which directly targets lean mass, strength, and physical function improvements.",
+    "score": "4"
+  },
+  {
+    "question": "What nutritional interventions are recommended for frailty and sarcopenia?",
+    "answer": "Sarcopenia is a syndrome characterized by loss of skeletal muscle mass, muscle strength and function that increases the risk for disability, falls, fractures, cardiovascular disease, mortality, and hospitalization in older adults. \n",
+    "ground_truth": "Consider protein supplementation or a protein-rich diet, combined with physical activity and/or resistance-based training.",
+    "contexts": [],
+    "feedback": "Feedback: The response accurately describes the definition of sarcopenia but fails to address the nutritional interventions recommended for frailty and sarcopenia, which is the central question. It does not mention protein supplementation, protein-rich diet, physical activity, and resistance-based training, which matches the reference answer.",
+    "score": "4"
+  },
+  {
+    "question": "Why should nutritional interventions be combined with physical activity in frailty and sarcopenia?",
+    "answer": "The best way to prevent or slow the loss of muscle mass is to maintain a moderately active lifestyle and eat properly. Physical activity can help improve both muscle strength and endurance. \nThere are different types of physical activities that have shown positive effects in reducing sarcopenia: aerobic, resistance, and balance. Aerobic exercises are those that involve the large muscles such as walking or cycling. Resistance exercises include movements with a weighted object, like dumbbells or weights. Balance exercises help to maintain stability in the body while standing or moving.\nIn addition, eating protein-rich foods such as meat, fish, eggs, and legumes can help build muscle mass. Other nutrients that may be beneficial for sarcopenia include vitamin D and antioxidants.",
+    "ground_truth": "To ensure adequate calorie and protein intake, and to maximize benefits through combined approaches.",
+    "contexts": [],
+    "feedback": "Feedback: The response explains the benefits of physical activity on muscle strength and endurance, and lists different types of exercises that can be effective in reducing sarcopenia. However, it is missing a clear link to nutritional interventions and how they should be combined with physical activity to address frailty and sarcopenia. Although it suggests the importance of calorie and protein intake, the direct relevance to the optimal approach mentioned in the reference answer is not explicitly stated.",
+    "score": "4"
+  }
+]

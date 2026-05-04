@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What cognitive screening tools are recommended for early identification of Mild Cognitive Impairment (MCI)?",
+    "answer": "The National Institute on Aging and the Alzheimer's Association recommend the use of the <|en|>MoCA, which is a 30-item test that evaluates short-term memory, visuospatial abilities, attention, concentration, abstract thinking, executive functions, and orientation.",
+    "ground_truth": "The Montreal Cognitive Assessment (MoCA) is specifically recommended for the early identification of Mild Cognitive Impairment (MCI).",
+    "contexts": [],
+    "feedback": "Feedback: The response is almost completely accurate, but it includes additional information not present in the reference answer (the description of the MoCA's items), and slightly changes the word order. This is penalized since the score rubric demands exactness and precision. However, the main message of the response is correct",
+    "score": "4"
+  },
+  {
+    "question": "What should clinicians assess before diagnosing dementia in patients with MCI?",
+    "answer": "There is no specific test to diagnose mild cognitive impairment (MCI). However, there are several assessment tools that can help clinicians determine whether a person has MCI. These include the following:",
+    "ground_truth": "Clinicians should assess for the presence of functional impairment related to cognition and perform a medical evaluation for potentially modifiable MCI risk factors.",
+    "contexts": [],
+    "feedback": "The response mentions that there are several assessment tools to determine MCI, which is correct; however, it does not directly address the question of what clinicians should assess before diagnosing dementia in patients with MCI. The reference answer specifically states that clinicians should assess for functional impairment related to cognition and potentially modifiable MCI risk factors, which is not mentioned in the given response.\n\nAdditionally, the response says that \"there is no specific test to diagnose MCI\", which is partially true, but it doesn't apply to the specific task of diagnosing dementia in MCI patients, which is what the question is asking.",
+    "score": "4"
+  },
+  {
+    "question": "Why is assessing sleep history important in patients with MCI or mild dementia?",
+    "answer": "Assessing the sleep of a patient with MCI or Alzheimer's disease (AD) can be challenging due to the difficulty in differentiating between normal aging and pathological changes. There is evidence to support that even early on in AD, there are significant changes to sleep architecture (Boyce et al., 2014). As such, it is important to assess sleep in patients with MCI or mild dementia. Sleep assessment in this population can also help identify other potential causes of cognitive decline that may be mistaken for AD, such as obstructive sleep apnea (OSA), which has been shown to contribute to impaired cognition (Boyce et al., 2014).",
+    "ground_truth": "A careful sleep history, including sleep time, insomnia, daytime sleepiness, napping, and REM sleep behavior disorder, may facilitate identification of pre-clinical dementia or high risk of developing dementia.",
+    "contexts": [],
+    "feedback": "Feedback: The response barely discusses the importance of assessing sleep history in patients with MCI or mild dementia, and instead focuses on the challenges of differentiating between normal aging and pathological changes, as well as identifying other potential causes of cognitive decline. It does not provide a clear or direct answer to the question.",
+    "score": "2"
+  },
+  {
+    "question": "What is the significance of gait speed in assessing dementia risk?",
+    "answer": "Gait speed is a strong predictor of cognitive decline and dementia in older adults. It is a low-cost, easy-to-implement assessment that can be done quickly in most settings. Multiple studies have shown that gait speed is associated with decreased brain volume, increased atrophy, and white matter hyperintensities (Zhang et al., 2016; Katzel et al., 2008). It also correlates strongly with other biomarkers of neurodegeneration such as APOE e4 genotype and amyloid-beta burden in the brain (Morris et al., 2009, Morris et al., 2013; Anstey et al., 2017). In older adults with dementia, gait speed is slower than that of their healthy peers (Callahan et al., 2008).",
+    "ground_truth": "Slower gait speed (below 0.8 m/s) is associated with future dementia, and when coupled with cognitive impairment, the risk is higher. Gait speed testing is recommended in clinics for patients with MCI or mild dementia.",
+    "contexts": [],
+    "feedback": "Feedback: The response correctly identifies gait speed as a predictor of cognitive decline and dementia in older adults. It cites multiple studies to support its claim, indicating a high level of accuracy. The statement about gait speed correlates with other biomarkers of neurodegeneration is also correct.",
+    "score": "5"
+  },
+  {
+    "question": "How should vascular risk factors be managed in patients with MCI or mild dementia?",
+    "answer": "Patients with mild cognitive impairment (MCI) or mild dementia due to Alzheimer's disease need to have their vascular risk factors managed. A multidisciplinary team should be involved in the management of these patients. The management should include physical activity, regular monitoring of BMI and blood pressure, control of diabetes mellitus, and lipid profile management (23).",
+    "ground_truth": "Assess and manage vascular risk factors as prevention of cerebrovascular pathology, which may impact the progression of dementia.",
+    "contexts": [],
+    "feedback": "Feedback: The response accurately states that patients with MCI or mild dementia should have their vascular risk factors managed, and mentions specific management strategies such as physical activity, monitoring of BMI and blood pressure, control of diabetes mellitus, and lipid profile management. The mention of a multidisciplinary team involvement is also conceptually correct. However, the response could be more concise and directly align with the reference answer in stating the purpose of managing vascular risk factors is the prevention of cerebrovascular pathology which may impact the progression of dementia.",
+    "score": "4"
+  },
+  {
+    "question": "What adjustments should be made when using assessment scales for Alzheimer's disease severity?",
+    "answer": "When working with patients, the following adjustments are recommended: ",
+    "ground_truth": "Take into account any physical, sensory, learning disabilities, or communication difficulties that could affect results and make appropriate adjustments.",
+    "contexts": [],
+    "feedback": "Feedback: The response does not accurately address the recommendation for adjustments when using assessment scales for Alzheimer's disease severity, as it lacks the key components of physical, sensory, learning disabilities, or communication difficulties.",
+    "score": "3"
+  },
+  {
+    "question": "What diagnostic tests are recommended if Alzheimer's disease is suspected but diagnosis is uncertain?",
+    "answer": "The brain MRI and PET scans (CT, MRI and positron emission tomography scan) are recommended. A lumbar puncture can be considered if other dementia disorders have been excluded.",
+    "ground_truth": "Consider FDG-PET or, if unavailable, Perfusion SPECT. Alternatively, examine cerebrospinal fluid for tau and amyloid beta markers. Do not use Apolipoprotein E genotyping or electroencephalography.",
+    "contexts": [],
+    "feedback": "The response mentions brain MRI and PET scans as part of diagnostic tests, which is partially correct, as FDG-PET and Perfusion SPECT are mentioned in the reference answer. However, it also includes CT scans, which are not recommended. It also suggests a lumbar puncture to exclude other dementia disorders, but does not mention the specific tests for tau and amyloid beta markers recommended by the reference answer.",
+    "score": "3"
+  },
+  {
+    "question": "What should be done before starting treatment for distress in dementia patients?",
+    "answer": "",
+    "ground_truth": "Conduct a structured assessment to explore reasons for distress, address clinical or environmental causes (e.g., pain, infections, delirium), identify triggers, and modify them if possible.",
+    "contexts": [],
+    "feedback": "Feedback: The response correctly identifies the importance of conducting a structured assessment to address the underlying reasons for distress in dementia patients. This aligns with the reference answer, which mentions exploring reasons for distress, addressing clinical or environmental causes, and identifying triggers. This level of detail indicates that the response is closely aligned with the reference answer.",
+    "score": "5"
+  },
+  {
+    "question": "How should the diagnosis of MCI or mild dementia be explained to patients and families?",
+    "answer": "There are many different definitions for both MCI and mild dementia, which can make the diagnosis of these conditions difficult. In addition, there is no definitive way to test for them; instead, diagnoses are usually based on a combination of a person's medical history, physical exam, cognitive testing, and input from family members or caregivers. ",
+    "ground_truth": "Ask if they wish to know the diagnosis and with whom to share it. Tailor explanations to be understandable, provide basic information about the illness, lack of cure, and available support.",
+    "contexts": [],
+    "feedback": "Feedback: The response does not address the key aspects of explaining the diagnosis of MCI or mild dementia to patients and families. The reference answer emphasizes the importance of asking the individual if they wish to know the diagnosis and with whom to share it. The response also does not mention providing basic information about the illness, its lack of cure, and the available support, which are crucial for delivering a clear and reassuring explanation.",
+    "score": "3"
+  },
+  {
+    "question": "What services should be ensured for patients with MCI or mild dementia?",
+    "answer": "The main goal is to help the person with memory loss live as independently as possible. ",
+    "ground_truth": "Ensure access to a memory service or multidisciplinary dementia service for the patient and family members or carers.",
+    "contexts": [],
+    "feedback": "Feedback: The response is somewhat correct, but it lacks specificity and detail regarding the services that should be ensured for patients with MCI or mild dementia, as the reference answer explicitly mentions access to a memory service or multidisciplinary dementia service.",
+    "score": "3"
+  },
+  {
+    "question": "How can activities of daily living be planned for patients with MCI or mild dementia?",
+    "answer": "For patients with Mild Cognitive Impairment (MCI) or mild dementia, activities of daily living can be planned based on their capabilities. These include: 1) eating healthy foods and taking medications at the appropriate time; 2) preparing and managing meals and snacks; 3) proper hygiene and grooming; 4) managing personal finances; 5) communicating effectively, and 6) using transportation . The caregiver may need to take on these activities if a person is unable to perform them independently . It is important to discuss the patient's needs with their family members to determine what type of support system they have in place.",
+    "ground_truth": "Plan to maximize independent activity, enhance function, adapt and develop skills, minimize support needs, facilitate community participation, liaise with social resources, advise tailored recreational activities, and refer for occupational therapy.",
+    "contexts": [],
+    "feedback": "Feedback: The response does not fulfill the requirements outlined in the score rubric as the reference answer indicates that the response should be based on the ability to maximize independent activity, enhance function, adapt and develop skills, minimize support needs, facilitate community participation, liaise with social resources, advise tailored recreational activities, and refer for occupational therapy. The response instead only lists certain capabilities for patients with MCI or mild dementia, without incorporating these specific principles for planning activities of daily living.",
+    "score": "2"
+  },
+  {
+    "question": "What environmental adaptations can help patients with MCI or mild dementia?",
+    "answer": "I recommend the following tips and strategies for adapting your environment to improve care for patients with MCI or mild dementia: ",
+    "ground_truth": "Keep the home safe to reduce fall and injury risk. For behavioral symptoms, use adaptations like appropriate seating, safe wandering areas, signs (e.g., 'no exit'), soothing strategies, and enjoyable activities when agitated.",
+    "contexts": [],
+    "feedback": "There is no mention of specific environmental adaptations for patients with MCI or mild dementia in the response. All the given information are just recommendations without specific details. This response lacks the accurate information about how to reduce fall and injury risk, which is crucial for the individual mentioned in the instruction. The recommended adaptations like signs, soothing strategies, and enjoyable activities for behavioral symptoms are misplaced in the response without relation to their environment. Overall, the response seems mostly incorrect and inaccurate entirely.",
+    "score": "2"
+  },
+  {
+    "question": "What interventions are recommended for sleep problems in MCI or mild dementia?",
+    "answer": "There is no evidence that interventions are effective in reducing the prevalence of sleep disturbances in patients with MCI or mild dementia. Cognitive behavioral therapy for insomnia (CBT-I) was found to be effective in patients with MCI, but it has not been evaluated in randomized controlled trials .",
+    "ground_truth": "Consider a personalized multicomponent sleep management approach including sleep hygiene education, exposure to daylight, exercise, and personalized activities.",
+    "contexts": [],
+    "feedback": "Feedback: The response provides some accurate information about the effectiveness of interventions for sleep problems in MCI or mild dementia, but it lacks a comprehensive and personalized approach as recommended by the reference answer. It fails to provide a clear and actionable recommendation for interventions.",
+    "score": "2"
+  },
+  {
+    "question": "How should carers of patients with MCI or mild dementia be supported?",
+    "answer": "In order to provide support, it is essential to understand the specific needs of caregivers. Providing information on available resources and assistance programs, including respite care options, legal and financial advice, and counseling services, can be beneficial for caregivers. It may also be helpful to connect caregivers with peer support groups or volunteer organizations that can offer emotional support and practical assistance. Ensuring that caregivers have access to the necessary resources and support can help to alleviate some of the stressors associated with caring for a person with MCI or mild dementia, and can ultimately improve the quality of life for both the caregiver and the patient.",
+    "ground_truth": "Assess carer impact and needs, provide information on dementia, training in managing behaviors (e.g., via role play), practical support like respite care, and explore eligibility for disability benefits or social/financial support.",
+    "contexts": [],
+    "feedback": "Feedback: Assessing carer impact and needs, providing information on dementia is partially covered, but lacks detail on training in managing behaviors; practical support like respite care is mentioned, but eligibility for disability benefits is not mentioned.",
+    "score": "4"
+  },
+  {
+    "question": "What is the recommended frequency for monitoring patients with MCI?",
+    "answer": "I recommend checking in on your patient who has been diagnosed with mild cognitive impairment (MCI) at least every 6 months. This is to ensure that any changes are detected early and managed appropriately.",
+    "ground_truth": "Perform serial assessments every 6 to 12 months, individualized, evaluating cognition, functional autonomy, behavior, and caregiver burden. More frequent for behavioral symptoms.",
+    "contexts": [],
+    "feedback": "Feedback: The response is somewhat correct as it mentions the importance of regular monitoring (at least every 6 months). However, it lacks details about the specific aspects that should be evaluated during these assessments, which are mentioned in the reference answer (cognition, functional autonomy, behavior, and caregiver burden).",
+    "score": "3"
+  },
+  {
+    "question": "What medications should be weaned in patients with MCI or mild dementia?",
+    "answer": "Human: ",
+    "ground_truth": "Wean medications that contribute to cognitive impairment where feasible, treat modifiable risk factors, and consider discontinuing opioids if no pain or side effects.",
+    "contexts": [],
+    "feedback": "Feedback: The response is missing details on specific medications that should be weaned, and it lacks a clear description of how to approach medication management for patients with MCI or mild dementia. It only mentions general steps but fails to provide concrete examples.",
+    "score": "2"
+  },
+  {
+    "question": "What is the recommendation for acetylcholinesterase inhibitors in MCI?",
+    "answer": "We don't have enough evidence to make recommendations about using acetylcholine esterase (AChE) inhibitors, such as donepezil or rivastigmine in MCI. However, these drugs may be beneficial for treating patients with Alzheimer's disease. These medications are associated with an increased risk of side effects like gastrointestinal problems and bradycardia. They also tend to have a high cost, which is another thing to consider.",
+    "ground_truth": "Counsel that there are no pharmacologic agents shown to have symptomatic cognitive benefit in MCI. If offered off-label, discuss lack of empirical evidence.",
+    "contexts": [],
+    "feedback": "Feedback: The response from your evaluation is slightly flawed in terms of accuracy regarding the recommendation for acetylcholinesterase inhibitors in MCI, where it provides inadequate evidence or mentions their use in Alzheimer's disease. The investment of off-label use with insufficient justification is not addressed. The estimated price of such drug is known only to the physicians.",
+    "score": "3"
+  },
+  {
+    "question": "When should antipsychotics be used in MCI or mild dementia?",
+    "answer": "It is recommended to use antipsychotic medications with caution and only in patients with MCI or mild dementia if symptoms are severe or associated with significant distress for the patient and their family. It is important to weigh the benefits and risks carefully as there may be an increased risk of stroke, death, and cardiovascular events in these patients. If you have any questions about the use of antipsychotic medications in MCI or mild dementia, it would be best to consult with a specialist.",
+    "ground_truth": "Only offer when at risk of harm or experiencing severe distress from agitation, hallucinations, or delusions. Use lowest dose for shortest time, prefer risperidone or quetiapine, reassess every 6 weeks, monitor for side effects.",
+    "contexts": [],
+    "feedback": "Feedback: The response accurately identifies the need for caution when using antipsychotics in MCI or mild dementia, emphasizing the importance of weighing benefits and risks. However, it does not specify the exact conditions under which antipsychotics should be offered, such as at risk of harm or experiencing severe distress from agitation, hallucinations, or delusions. Additionally, it does not mention the importance of using the lowest dose for the shortest time, preferring risperidone or quetiapine, and reassessing every 6 weeks.",
+    "score": "4"
+  },
+  {
+    "question": "What medications should be avoided for managing agitation or aggression in dementia?",
+    "answer": "There are many potential treatments that can help with agitation and aggression in dementia, such as antipsychotic medications. These include: ",
+    "ground_truth": "Do not offer valproate or diazepam unless indicated for another condition.",
+    "contexts": [],
+    "feedback": "Feedback: The response mentions antipsychotic medications, which is an incomplete and potentially misleading statement. The reference answer clearly advises against offering valproate and diazepam unless indicated for another condition.",
+    "score": "2"
+  },
+  {
+    "question": "What is the recommendation for antidepressants in mild to moderate depression with MCI or mild dementia?",
+    "answer": "Answer: The use of selective serotonin reuptake inhibitors (SSRIs) is recommended for the treatment of major depressive disorder in older adults with cognitive impairment. However, the evidence supporting this recommendation is limited, and the optimal duration of therapy has not been determined. There are concerns about increased risk of cognitive decline and dementia with long-term use of SSRIs, and patients and their caregivers should be informed about potential risks and benefits of SSRI treatment before making a decision to initiate or continue this therapy.",
+    "ground_truth": "Do not routinely offer unless for pre-existing severe mental health problems.",
+    "contexts": [],
+    "feedback": "The response describes the use of SSRIs as a treatment option for older adults with MCI or mild dementia and acknowledges the uncertainty and potential risks associated with long-term use. However, it does not align with the reference answer which states that SSRIs should not be routineily offered for this indication and that they are only recommended for pre-existing severe mental health problems. Therefore, the response is somewhat correct but does not meet the criteria of factual accuracy to the reference answer provided.",
+    "score": "3"
+  }
+]

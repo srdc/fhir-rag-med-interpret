@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What cognitive screening tools are recommended for early identification of Mild Cognitive Impairment (MCI)?",
+        "answer": "The Montreal Cognitive Assessment (MoCA) is specifically recommended for the early identification of Mild Cognitive Impairment (MCI)."
+    },
+    {
+        "question": "What should clinicians assess before diagnosing dementia in patients with MCI?",
+        "answer": "Clinicians should assess for the presence of functional impairment related to cognition and perform a medical evaluation for potentially modifiable MCI risk factors."
+    },
+    {
+        "question": "Why is assessing sleep history important in patients with MCI or mild dementia?",
+        "answer": "A careful sleep history, including sleep time, insomnia, daytime sleepiness, napping, and REM sleep behavior disorder, may facilitate identification of pre-clinical dementia or high risk of developing dementia."
+    },
+    {
+        "question": "What is the significance of gait speed in assessing dementia risk?",
+        "answer": "Slower gait speed (below 0.8 m/s) is associated with future dementia, and when coupled with cognitive impairment, the risk is higher. Gait speed testing is recommended in clinics for patients with MCI or mild dementia."
+    },
+    {
+        "question": "How should vascular risk factors be managed in patients with MCI or mild dementia?",
+        "answer": "Assess and manage vascular risk factors as prevention of cerebrovascular pathology, which may impact the progression of dementia."
+    },
+    {
+        "question": "What adjustments should be made when using assessment scales for Alzheimer's disease severity?",
+        "answer": "Take into account any physical, sensory, learning disabilities, or communication difficulties that could affect results and make appropriate adjustments."
+    },
+    {
+        "question": "What diagnostic tests are recommended if Alzheimer's disease is suspected but diagnosis is uncertain?",
+        "answer": "Consider FDG-PET or, if unavailable, Perfusion SPECT. Alternatively, examine cerebrospinal fluid for tau and amyloid beta markers. Do not use Apolipoprotein E genotyping or electroencephalography."
+    },
+    {
+        "question": "What should be done before starting treatment for distress in dementia patients?",
+        "answer": "Conduct a structured assessment to explore reasons for distress, address clinical or environmental causes (e.g., pain, infections, delirium), identify triggers, and modify them if possible."
+    },
+    {
+        "question": "How should the diagnosis of MCI or mild dementia be explained to patients and families?",
+        "answer": "Ask if they wish to know the diagnosis and with whom to share it. Tailor explanations to be understandable, provide basic information about the illness, lack of cure, and available support."
+    },
+    {
+        "question": "What services should be ensured for patients with MCI or mild dementia?",
+        "answer": "Ensure access to a memory service or multidisciplinary dementia service for the patient and family members or carers."
+    },
+    {
+        "question": "How can activities of daily living be planned for patients with MCI or mild dementia?",
+        "answer": "Plan to maximize independent activity, enhance function, adapt and develop skills, minimize support needs, facilitate community participation, liaise with social resources, advise tailored recreational activities, and refer for occupational therapy."
+    },
+    {
+        "question": "What environmental adaptations can help patients with MCI or mild dementia?",
+        "answer": "Keep the home safe to reduce fall and injury risk. For behavioral symptoms, use adaptations like appropriate seating, safe wandering areas, signs (e.g., 'no exit'), soothing strategies, and enjoyable activities when agitated."
+    },
+    {
+        "question": "What interventions are recommended for sleep problems in MCI or mild dementia?",
+        "answer": "Consider a personalized multicomponent sleep management approach including sleep hygiene education, exposure to daylight, exercise, and personalized activities."
+    },
+    {
+        "question": "How should carers of patients with MCI or mild dementia be supported?",
+        "answer": "Assess carer impact and needs, provide information on dementia, training in managing behaviors (e.g., via role play), practical support like respite care, and explore eligibility for disability benefits or social/financial support."
+    },
+    {
+        "question": "What is the recommended frequency for monitoring patients with MCI?",
+        "answer": "Perform serial assessments every 6 to 12 months, individualized, evaluating cognition, functional autonomy, behavior, and caregiver burden. More frequent for behavioral symptoms."
+    },
+    {
+        "question": "What medications should be weaned in patients with MCI or mild dementia?",
+        "answer": "Wean medications that contribute to cognitive impairment where feasible, treat modifiable risk factors, and consider discontinuing opioids if no pain or side effects."
+    },
+    {
+        "question": "What is the recommendation for acetylcholinesterase inhibitors in MCI?",
+        "answer": "Counsel that there are no pharmacologic agents shown to have symptomatic cognitive benefit in MCI. If offered off-label, discuss lack of empirical evidence."
+    },
+    {
+        "question": "When should antipsychotics be used in MCI or mild dementia?",
+        "answer": "Only offer when at risk of harm or experiencing severe distress from agitation, hallucinations, or delusions. Use lowest dose for shortest time, prefer risperidone or quetiapine, reassess every 6 weeks, monitor for side effects."
+    },
+    {
+        "question": "What medications should be avoided for managing agitation or aggression in dementia?",
+        "answer": "Do not offer valproate or diazepam unless indicated for another condition."
+    },
+    {
+        "question": "What is the recommendation for antidepressants in mild to moderate depression with MCI or mild dementia?",
+        "answer": "Do not routinely offer unless for pre-existing severe mental health problems."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What BP thresholds warrant treatment in multimorbid older patients with cognitive impairment?",
+        "answer": "Offer BP-lowering treatment if systolic BP is 160 mmHg or higher. It is also recommended for patients older than 65 but not older than 80 years with grade 1 hypertension, defined as systolic BP 140 to 159 mmHg. Target systolic BP between 130 and 140 mmHg and diastolic BP below 80 mmHg. Do not target systolic BP below 120 mmHg. Drug treatment is not recommended for high-normal BP."
+    },
+    {
+        "question": "What symptoms suggest obstructive sleep apnea in hypertensive patients?",
+        "answer": "Suspect obstructive sleep apnea in patients with snoring or apnea, nocturia, nocturnal dyspnea, nighttime cardiovascular events, resistant hypertension, or daytime sleepiness."
+    },
+    {
+        "question": "How should hypertension diagnosis be confirmed?",
+        "answer": "Use out-of-office BP measurements, such as ambulatory or home monitoring, together with telehealth counseling or clinical interventions."
+    },
+    {
+        "question": "What are the BP categories for hypertension?",
+        "answer": "Normal, high-normal at 130 to 139 over 85 to 89 mmHg, grade 1 at 140 to 159 over 90 to 99 mmHg, grade 2 at 160 to 179 over 100 to 109 mmHg, and grade 3 at 180 over 110 mmHg or higher."
+    },
+    {
+        "question": "When should secondary causes of hypertension be ruled out?",
+        "answer": "Rule out secondary causes when treatment fails to lower office BP below 140 over 90 mmHg, the lack of control is confirmed by ambulatory or home monitoring, and adherence has been verified."
+    },
+    {
+        "question": "Why should age not be a barrier to treating hypertension?",
+        "answer": "High BP remains an important risk factor even at advanced age, but treatment decisions should still account for the patient's clinical condition, concomitant treatments, and frailty."
+    },
+    {
+        "question": "What lifestyle advice is recommended for all hypertensive patients?",
+        "answer": "Offer lifestyle advice to all patients with high-normal or grade 1 to 3 hypertension, including weight loss for those who are overweight or obese."
+    },
+    {
+        "question": "How should adherence and response to antihypertensive treatment be monitored?",
+        "answer": "Follow up after starting or adjusting treatment until BP control is achieved, and monitor the effect on well-being because lower BP values may increase the risk of adverse events such as injurious falls."
+    },
+    {
+        "question": "What should be monitored for tolerability of antihypertensive treatment?",
+        "answer": "Monitor for adverse reactions, postural BP changes, possible hypotensive episodes by ambulatory BP monitoring, and the effect of concomitant drugs that may increase hypotensive effects."
+    },
+    {
+        "question": "How often should renal function be assessed in hypertensive patients?",
+        "answer": "Renal function should be assessed frequently to detect increases in serum creatinine and reductions in eGFR caused by reduced renal perfusion."
+    },
+    {
+        "question": "What is the initial therapy for most hypertensive patients with comorbidities?",
+        "answer": "For most patients, start with a dual combination of ACE inhibitor or ARB plus a calcium channel blocker, or ACE inhibitor or ARB plus a diuretic. If needed, escalate to triple therapy and then add a fourth drug."
+    },
+    {
+        "question": "What are the treatment steps for hypertension in coronary artery disease?",
+        "answer": "Initial therapy is a dual combination such as ACE inhibitor or ARB plus CCB, ACE inhibitor or ARB plus beta-blocker, CCB plus beta-blocker, CCB plus diuretic, or diuretic plus beta-blocker. If BP goals are not met, move to triple therapy, then add a fourth drug if needed. Consider beta-blockers at any step when specifically indicated."
+    },
+    {
+        "question": "How is hypertension managed in chronic kidney disease?",
+        "answer": "Initial therapy is a dual combination of ACE inhibitor or ARB plus CCB, or ACE inhibitor or ARB plus a diuretic or loop diuretic. If needed, move to triple therapy, then add a fourth drug. In CKD stage 3 or higher, or stage 1 or 2 with albuminuria, an ACE inhibitor is reasonable to slow progression."
+    },
+    {
+        "question": "What is the initial therapy for hypertension in heart failure with reduced ejection fraction?",
+        "answer": "Start with triple therapy using ACE inhibitor or ARB, a diuretic or loop diuretic, and a beta-blocker. If needed, add an MRA as a fourth drug."
+    },
+    {
+        "question": "What is recommended for initiating antihypertensive therapy in multimorbid older adults with cognitive impairment?",
+        "answer": "Initiate treatment with monotherapy, usually once daily, or use combination therapy at the lowest available doses. First-line agents include thiazide diuretics, calcium channel blockers, and ACE inhibitors or ARBs. Avoid loop diuretics and alpha-blockers unless required for concomitant diseases."
+    },
+    {
+        "question": "Why is simultaneous use of ACEi, ARB, and renin inhibitor harmful?",
+        "answer": "Simultaneous use of an ACE inhibitor, ARB, and or renin inhibitor is potentially harmful and is not recommended to treat hypertension."
+    },
+    {
+        "question": "What is the treatment strategy for resistant hypertension in multimorbid older adults?",
+        "answer": "Use lifestyle measures together with optimal or best-tolerated doses of three or more drugs, including a diuretic, typically an ACE inhibitor or ARB, and a calcium channel blocker."
+    },
+    {
+        "question": "Which medications should be avoided in hypertensive patients with bronchial asthma?",
+        "answer": "Avoid beta-blockers and alpha-blockers."
+    },
+    {
+        "question": "How do NSAIDs affect BP in older adults?",
+        "answer": "NSAIDs can raise BP and antagonize the antihypertensive effects of diuretics, beta-blockers, ACE inhibitors, and ARBs, so they should be used carefully."
+    },
+    {
+        "question": "What should be done if BP increases with glucocorticoids, erythropoietin, estrogen, or sympathomimetics?",
+        "answer": "If glucocorticoid treatment is unavoidable, use CCBs, ACE inhibitors, ARBs, beta-blockers, diuretics, or MRA. If BP rises with erythropoietin, estrogen, or sympathomimetics, consider dose reduction or discontinuation. If they cannot be discontinued, use CCBs, ACE inhibitors, ARBs, or alpha-blockers."
+    },
+    {
+        "question": "Why should diuretics be avoided in hypertensive patients with gout?",
+        "answer": "Thiazide and thiazide-like diuretics can worsen gout and should be avoided."
+    },
+    {
+        "question": "What are contraindications for beta-blockers in hypertension?",
+        "answer": "Avoid beta-blockers in asthma, high-grade sinoatrial or atrioventricular block, or bradycardia below 60 beats per minute. Possible contraindications include metabolic syndrome, glucose intolerance, and high physical activity."
+    },
+    {
+        "question": "What are contraindications for calcium channel blockers in hypertension?",
+        "answer": "Dihydropyridines may be problematic in tachyarrhythmia, heart failure with reduced ejection fraction class III or IV, and severe leg edema. Non-dihydropyridines should be avoided in high-grade sinoatrial or atrioventricular block, severe left ventricular dysfunction with ejection fraction below 40%, or bradycardia, and may also be problematic in constipation."
+    },
+    {
+        "question": "What are contraindications for ACE inhibitors and ARBs?",
+        "answer": "ACE inhibitors should be avoided in previous angioneurotic edema, hyperkalemia above 5.5 mmol/L, or bilateral renal artery stenosis. ARBs should be avoided in hyperkalemia above 5.5 mmol/L or bilateral renal artery stenosis."
+    },
+    {
+        "question": "What are possible contraindications for alpha-blockers?",
+        "answer": "Orthostatic hypotension is a possible contraindication."
+    }
+]

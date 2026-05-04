@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What are the key risk factors for developing COPD in older adults?",
+        "answer": "The main risk factor highlighted is smoking or a history of smoking."
+    },
+    {
+        "question": "How should dyspnoea be assessed in patients suspected of having COPD?",
+        "answer": "Dyspnoea should be scaled using the MRC (Medical Research Council) scale: Grade 0 for breathlessness with strenuous exercise, Grade 1 for breathlessness when hurrying or walking up a slight hill, Grade 2 for walking slower than peers or stopping for breath on level ground, Grade 3 for stopping after 100 meters or a few minutes, and Grade 4 for being too breathless to leave the house or when dressing."
+    },
+    {
+        "question": "What additional symptoms should be inquired about during the assessment of a patient with suspected COPD?",
+        "answer": "In addition to exertional breathlessness, chronic cough, sputum production, and wheeze, ask about weight loss, reduced exercise tolerance, nocturnal breathlessness, ankle swelling, fatigue, occupational hazards, chest pain, or haemoptysis."
+    },
+    {
+        "question": "When should spirometry be performed in the management of COPD?",
+        "answer": "Spirometry should be performed at diagnosis, to reconsider the diagnosis, for patients showing an exceptionally good response to treatment, and to monitor disease progression. Post-bronchodilator spirometry is essential to confirm COPD."
+    },
+    {
+        "question": "What challenges might arise when performing spirometry in multimorbid older adults with cognitive impairment?",
+        "answer": "In multimorbid older adults with cognitive impairment, spirometry may be difficult to perform, and results may not be accurate due to poor cooperation or inability to follow instructions."
+    },
+    {
+        "question": "What initial tests are recommended alongside spirometry for diagnosing COPD?",
+        "answer": "In addition to spirometry, perform a chest radiograph to exclude other pathologies, a full blood count to identify anaemia or polycythaemia, and calculate the Body Mass Index (BMI)."
+    },
+    {
+        "question": "What factors should be considered when discussing prognosis with patients who have stable COPD?",
+        "answer": "Consider FEV, smoking status, breathlessness on the MRC scale, chronic hypoxia or cor-pulmonale, low BMI, severity and frequency of exacerbations, hospital admissions, symptom burden, exercise capacity, TLCO, eligibility for long-term oxygen therapy or home non-invasive ventilation, multimorbidity, and frailty."
+    },
+    {
+        "question": "In what situations should older adults with COPD be referred for specialist advice?",
+        "answer": "Refer for diagnostic uncertainty, confirmation of diagnosis and therapy optimization, suspected severe COPD or onset of cor-pulmonale, assessment for oxygen therapy or long-term nebuliser therapy, or when continued treatment or supervised withdrawal is needed."
+    },
+    {
+        "question": "What are the criteria for considering hospitalization in patients with COPD exacerbations?",
+        "answer": "Hospitalization is considered if there is a marked increase in symptom intensity, inadequate response to ambulatory management, inability to walk between rooms when previously mobile, inability to eat or sleep due to dyspnoea, inability to manage at home despite home-care resources, high-risk comorbidities, altered mental status suggestive of hypercapnia, worsening hypoxaemia or cor-pulmonale, severe dyspnoea unresponsive to initial therapy, or persistent or worsening hypoxaemia, hypercapnia, or respiratory acidosis."
+    },
+    {
+        "question": "What is the stepwise approach for pharmacological management in stable COPD?",
+        "answer": "Start with optimized non-pharmacological management and short-acting bronchodilators. If breathless or exacerbations persist, offer LAMA + LABA without asthmatic features or LABA + ICS with asthmatic features. Escalate to LAMA + LABA + ICS if symptoms or exacerbations continue to adversely affect quality of life."
+    },
+    {
+        "question": "When should long-term oral corticosteroids be considered in COPD, and what precautions are needed?",
+        "answer": "Long-term oral corticosteroids are not normally recommended but may be needed in advanced COPD when they cannot be withdrawn after an exacerbation. In these cases, keep the dose as low as possible."
+    },
+    {
+        "question": "What criteria indicate the need for oxygen therapy assessment in COPD patients?",
+        "answer": "Assess for oxygen therapy if FEV1 is below 30% predicted, or if there is cyanosis, polycythaemia, peripheral oedema, raised jugular venous pressure, pulmonary hypertension, or oxygen saturation of 92% or less on room air. Inappropriate oxygen therapy can cause respiratory depression."
+    },
+    {
+        "question": "When is non-invasive mechanical ventilation indicated in COPD?",
+        "answer": "Consider non-invasive mechanical ventilation for respiratory acidosis with pH 7.35 or less or PaCO2 45 mmHg or more, severe dyspnoea with signs of respiratory muscle fatigue, or persistent hypoxemia despite adequate oxygen."
+    },
+    {
+        "question": "How can refractory dyspnoea be managed in COPD patients?",
+        "answer": "Opioids given orally or parenterally can be considered on an individual basis for refractory dyspnoea. Accompanying anxiety and depression should be evaluated and treated accordingly."
+    },
+    {
+        "question": "What supportive measures can help relieve breathlessness in COPD patients?",
+        "answer": "Oxygen and fans blowing air onto the face can help relieve breathlessness."
+    }
+]
